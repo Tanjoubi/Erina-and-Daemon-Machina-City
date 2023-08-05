@@ -1,6 +1,7 @@
-# Erina-and-Daemon-Machina-City
+# About
 A self-motivated translation project for the upcoming game by coolsister, Erina and Daemon Machina City (エリナと機魔の都体験版).
-This project as of today only covers the initial v0.90 demo. No machine-translated tools were used in the making of this patch.
+The title is currently temporary. If someone suggests a title with more oomph, or if I can think of a better one, it will be changed
+accordingly. This project as of today only covers the initial v0.90 demo. No machine-translated tools were used in the making of this patch.
 
 ## How To Use English Patch
 1. Download latest release.
