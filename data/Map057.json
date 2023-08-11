@@ -1,1 +1,5829 @@
-{"autoplayBgm":false,"autoplayBgs":true,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"Era-Warehouse I","encounterList":[],"encounterStep":30,"height":12,"note":"<Darkness:20>","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":15,"width":26,"data":[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,565,566,0,688,689,690,691,692,693,694,695,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,573,574,575,696,697,698,699,700,701,702,703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,581,582,583,704,705,706,707,708,709,710,711,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,589,590,591,712,713,714,715,716,717,718,719,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,597,598,599,720,721,722,723,724,725,726,727,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,605,606,607,728,729,730,731,732,733,734,735,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,613,614,615,736,737,738,739,740,741,742,743,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,621,622,623,744,745,746,747,748,749,750,751,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,564,821,822,567,944,945,946,947,948,949,950,951,0,0,0,0,0,0,0,0,0,0,0,0,0,0,572,829,830,831,952,953,954,955,956,957,958,959,0,0,0,0,0,0,0,0,0,0,0,0,0,0,580,837,838,839,960,961,962,963,964,965,966,967,0,0,0,0,0,0,0,0,0,0,0,0,0,0,588,845,846,847,968,969,970,971,972,973,974,975,0,0,0,0,0,0,0,0,0,0,0,0,0,0,596,853,854,855,976,977,978,979,980,981,982,983,0,0,0,0,0,0,0,0,0,0,0,0,0,0,604,861,862,863,984,985,986,987,988,989,990,991,0,0,0,0,0,0,0,0,0,0,0,0,0,0,612,869,870,871,992,993,994,995,996,997,998,999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,620,877,878,879,1000,1001,1002,1003,1004,1005,1006,1007,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"events":[null,{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":0,"parameters":[0,21,19,29,0,0]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}],"x":16,"y":9},{"id":2,"name":"EV002","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":402,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Okay."]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":230,"indent":0,"parameters":[20]},{"code":213,"indent":0,"parameters":[3,8,true]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["(This is the same steam cylinder from before that's sensitive to"]},{"code":401,"indent":0,"parameters":["impacts. The moment she places it down—bam! She'll eat a"]},{"code":401,"indent":0,"parameters":["face full of steam.)"]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["And... down we g—"]},{"code":242,"indent":0,"parameters":[8]},{"code":250,"indent":0,"parameters":[{"name":"factrySE,08 steam","volume":90,"pitch":60,"pan":0}]},{"code":223,"indent":0,"parameters":[[255,255,255,0],60,false]},{"code":230,"indent":0,"parameters":[10]},{"code":122,"indent":0,"parameters":[21,21,0,0,4]},{"code":122,"indent":0,"parameters":[22,22,0,0,15]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Kyah?!"]},{"code":230,"indent":0,"parameters":[20]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":221,"indent":0,"parameters":[]},{"code":223,"indent":0,"parameters":[[0,0,0,0],1,true]},{"code":117,"indent":0,"parameters":[115]},{"code":101,"indent":0,"parameters":["",0,1,2,""]},{"code":401,"indent":0,"parameters":["......"]},{"code":101,"indent":0,"parameters":["",0,1,2,""]},{"code":401,"indent":0,"parameters":["..."]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":16,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":230,"indent":0,"parameters":[30]},{"code":313,"indent":0,"parameters":[0,1,0,90]},{"code":222,"indent":0,"parameters":[]},{"code":241,"indent":0,"parameters":[{"name":"KBF_Event_Positive_06","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[30]},{"code":213,"indent":0,"parameters":[-1,7,true]},{"code":122,"indent":0,"parameters":[22,22,0,0,14]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Isn't this the same item from last time? You could've given me"]},{"code":401,"indent":0,"parameters":["a heads up, you know."]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Heh-heh, sorry about that."]},{"code":230,"indent":0,"parameters":[20]},{"code":117,"indent":0,"parameters":[211]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["(Those tits are truly out of this world... And let's not forget how"]},{"code":401,"indent":0,"parameters":["soft they are...)"]},{"code":232,"indent":0,"parameters":[10,0,0,0,320,0,100,100,0,0,20,false,0]},{"code":232,"indent":0,"parameters":[11,0,0,0,320,0,100,100,0,0,10,false,0]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Well, damn. It took me long time to get that item in stock, and"]},{"code":401,"indent":0,"parameters":["it's ruined now because of you."]},{"code":117,"indent":0,"parameters":[1]},{"code":122,"indent":0,"parameters":[22,22,0,0,5]},{"code":122,"indent":0,"parameters":[21,21,0,0,1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["I-Isn't that just because the cylinder's defective?"]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Maybe. In that case, you only need to pay for half of it."]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["I don't buy it..."]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Not paying? I'll have to report this to Maxim then."]},{"code":117,"indent":0,"parameters":[1]},{"code":122,"indent":0,"parameters":[22,22,0,0,14]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Ugh, f-fine... I just need to provide compensation, right? How"]},{"code":401,"indent":0,"parameters":["much was it?"]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Hmm, let's see... About 10,000 gold, more or less."]},{"code":117,"indent":0,"parameters":[1]},{"code":122,"indent":0,"parameters":[22,22,0,0,15]},{"code":122,"indent":0,"parameters":[21,21,0,0,4]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["H-Hey! That's way too high!"]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["It's a special steam cylinder. I had to go through hell to get it"]},{"code":401,"indent":0,"parameters":["because of how scarce it is."]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["But look, you're special to me, Erina. You can pay me back in"]},{"code":401,"indent":0,"parameters":["another way."]},{"code":122,"indent":0,"parameters":[22,22,0,0,5]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["I'd rather not hear what that might entail, but... Fine, let's hear"]},{"code":401,"indent":0,"parameters":["it."]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Good, turn around."]},{"code":122,"indent":0,"parameters":[22,22,0,0,5]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Huh...? What for?"]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["You'll see soon."]},{"code":230,"indent":0,"parameters":[20]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":19,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":19,"indent":null}]},{"code":122,"indent":0,"parameters":[22,22,0,0,5]},{"code":122,"indent":0,"parameters":[21,21,0,0,1]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Okay, there."]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":117,"indent":0,"parameters":[5]},{"code":117,"indent":0,"parameters":[6]},{"code":221,"indent":0,"parameters":[]},{"code":117,"indent":0,"parameters":[216]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":16,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":16,"indent":null}]},{"code":230,"indent":0,"parameters":[20]},{"code":222,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":0,"parameters":[23,23,0,0,-80]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":0,"parameters":[4]},{"code":117,"indent":0,"parameters":[1]},{"code":122,"indent":0,"parameters":[21,21,0,0,4]},{"code":122,"indent":0,"parameters":[22,22,0,0,21]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Wh-What do you mean next...?"]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Isn't it obvious? You gotta calm this guy down here. With your"]},{"code":401,"indent":0,"parameters":["body, of course."]},{"code":122,"indent":0,"parameters":[22,22,0,0,19]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["I-I don't know what you mean..."]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Come on, you playing dumb here? We've come this far. The only"]},{"code":401,"indent":0,"parameters":["thing left to do is have sex. Right?"]},{"code":122,"indent":0,"parameters":[22,22,0,0,33]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["There's no way... H-How about this? I'll let you fondle 10,000"]},{"code":401,"indent":0,"parameters":["gold's worth of my boobs, okay?!"]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["You're kidding, that still wouldn't be enough."]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":18,"indent":null},{"code":13,"indent":null},{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":13,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":205,"indent":0,"parameters":[3,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":4,"indent":null},{"code":17,"indent":null},{"code":29,"parameters":[4],"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":4,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":17,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[4],"indent":null}]},{"code":230,"indent":0,"parameters":[20]},{"code":213,"indent":0,"parameters":[-1,8,false]},{"code":213,"indent":0,"parameters":[3,4,true]},{"code":101,"indent":0,"parameters":["",0,1,2,""]},{"code":401,"indent":0,"parameters":["If I don't figure something out right now, we're going to end"]},{"code":401,"indent":0,"parameters":["up having sex..."]},{"code":122,"indent":0,"parameters":[22,22,0,0,21]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["W-Wait. I've been thinking, but..."]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["What?"]},{"code":122,"indent":0,"parameters":[22,22,0,0,27]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Isn't 10,000 gold too little for sex? It's not like I want to sell my"]},{"code":401,"indent":0,"parameters":["body for cheap, either."]},{"code":101,"indent":0,"parameters":["",0,1,2,"Erina"]},{"code":401,"indent":0,"parameters":["Please, give up... Oh, but if it's for 10,000 gold, then maybe..."]},{"code":401,"indent":0,"parameters":["Wait, no, no..."]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Makes sense... Alright, fine, I'll just settle for a titjob. That good"]},{"code":401,"indent":0,"parameters":["enough?"]},{"code":122,"indent":0,"parameters":[22,22,0,0,20]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Huh...? T-Ti... What?"]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Come here."]},{"code":122,"indent":0,"parameters":[22,22,0,0,30]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["W-Wait...?!"]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":221,"indent":0,"parameters":[]},{"code":117,"indent":0,"parameters":[5]},{"code":117,"indent":0,"parameters":[6]},{"code":108,"indent":0,"parameters":["▼イベント開始"]},{"code":117,"indent":0,"parameters":[217]},{"code":111,"indent":0,"parameters":[0,276,0]},{"code":117,"indent":1,"parameters":[219]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":117,"indent":1,"parameters":[218]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[20]},{"code":122,"indent":0,"parameters":[402,402,0,0,5]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":402,"variableValid":true,"variableValue":5},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":0,"parameters":[23,23,0,0,-80]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":0,"parameters":[4]},{"code":117,"indent":0,"parameters":[3]},{"code":108,"indent":0,"parameters":["▼各種ステータス上昇値"]},{"code":122,"indent":0,"parameters":[467,467,0,2,60,100]},{"code":122,"indent":0,"parameters":[468,468,0,2,6,10]},{"code":122,"indent":0,"parameters":[470,470,0,2,6,10]},{"code":108,"indent":0,"parameters":["▼各種ステータス上昇値を清算"]},{"code":111,"indent":0,"parameters":[4,1,6,21]},{"code":313,"indent":1,"parameters":[0,1,1,21]},{"code":122,"indent":1,"parameters":[583,583,1,0,5]},{"code":122,"indent":1,"parameters":[97,97,0,1,583]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":122,"indent":1,"parameters":[97,97,1,0,5]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":122,"indent":0,"parameters":[183,183,1,0,1]},{"code":122,"indent":0,"parameters":[184,184,1,0,2]},{"code":122,"indent":0,"parameters":[192,192,1,1,468]},{"code":122,"indent":0,"parameters":[194,194,1,1,470]},{"code":122,"indent":0,"parameters":[100,100,0,0,0]},{"code":122,"indent":0,"parameters":[98,98,1,1,467]},{"code":111,"indent":0,"parameters":[1,98,0,100,1]},{"code":122,"indent":1,"parameters":[98,98,0,0,100]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":["▼誰とSEXしたか"]},{"code":122,"indent":0,"parameters":[471,471,1,0,1]},{"code":108,"indent":0,"parameters":["▼性交の経験"]},{"code":111,"indent":0,"parameters":[0,276,1]},{"code":121,"indent":1,"parameters":[276,276,0]},{"code":122,"indent":1,"parameters":[195,195,0,4,"\"Parts Shop Owner\""]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":["▼パイズリの経験"]},{"code":111,"indent":0,"parameters":[0,278,1]},{"code":121,"indent":1,"parameters":[278,278,0]},{"code":122,"indent":1,"parameters":[189,189,0,4,"\"Experienced\""]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":117,"indent":0,"parameters":[140]},{"code":230,"indent":0,"parameters":[20]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[20]},{"code":213,"indent":0,"parameters":[-1,7,true]},{"code":230,"indent":0,"parameters":[20]},{"code":122,"indent":0,"parameters":[21,21,0,0,4]},{"code":122,"indent":0,"parameters":[22,22,0,0,23]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["You better not tell anyone about this..."]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Of course, I won't. You're my woman now, and I'd prefer to keep"]},{"code":401,"indent":0,"parameters":["it that way."]},{"code":122,"indent":0,"parameters":[22,22,0,0,28]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["That's not what I meant. Also, I better get my pay for this."]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Yeah, yeah, I'll have it ready for you at the shop. Anyway, I'll"]},{"code":401,"indent":0,"parameters":["be waiting to have fun again."]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":221,"indent":0,"parameters":[]},{"code":250,"indent":0,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":0,"parameters":[0,21,19,29,2,2]},{"code":230,"indent":0,"parameters":[10]},{"code":222,"indent":0,"parameters":[]},{"code":241,"indent":0,"parameters":[{"name":"KBF_Town_City_09_A","volume":90,"pitch":100,"pan":0}]},{"code":230,"indent":0,"parameters":[20]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":0,"parameters":[23,23,0,0,-80]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":0,"parameters":[4]},{"code":122,"indent":0,"parameters":[21,21,0,0,4]},{"code":122,"indent":0,"parameters":[22,22,0,0,20]},{"code":117,"indent":0,"parameters":[1]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["There won't be a next time..."]},{"code":108,"indent":0,"parameters":["▼Hステータス上昇値を表示"]},{"code":250,"indent":0,"parameters":[{"name":"sikouup","volume":90,"pitch":100,"pan":0}]},{"code":357,"indent":0,"parameters":["DTextPicture","dText","文字列ピクチャ準備",{"text":"Lewdness +5\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie +2\nCummed On +\\v[468]\nCreampie Volume +\\v[470]\n\nSex with Parts Shop Owner +1","fontSize":"20"}]},{"code":657,"indent":0,"parameters":["表示文字列 = Lewdness +5\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie +2\nCummed On +\\v[468]\nCreampie Volume +\\v[470]\n\nSex with Parts Shop Owner +1"]},{"code":657,"indent":0,"parameters":["フォントサイズ = 20"]},{"code":231,"indent":0,"parameters":[1,"exp_hresalt",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[2,"",0,0,540,120,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2,""]},{"code":401,"indent":0,"parameters":[""]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":230,"indent":0,"parameters":[20]},{"code":117,"indent":0,"parameters":[5]},{"code":117,"indent":0,"parameters":[6]},{"code":122,"indent":0,"parameters":[402,402,0,0,6]},{"code":122,"indent":0,"parameters":[302,302,0,0,3]},{"code":357,"indent":0,"parameters":["SoR_GabWindow_MZ_Right","PushGab","呼び出し[おしゃべりポップアップ]",{"arg0":"1","arg1":"Ugh... My groin stings..."}]},{"code":657,"indent":0,"parameters":["顔グラフィックを表示するアクターID = 1"]},{"code":657,"indent":0,"parameters":["メッセージ文字列 = Ugh... My groin stings..."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":402,"variableValid":true,"variableValue":6},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":22,"y":7},{"id":3,"name":"EV003","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"npc_sprits1","direction":8,"pattern":1,"characterIndex":6},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":12,"y":6},{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":108,"indent":0,"parameters":["<animeLight:TMAnimeLight2y 80 -18 -18 4 1>"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":13,"y":5},{"id":5,"name":"上層レイヤー","note":"<PLM:souko_>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":20,"y":0},null,null,{"id":8,"name":"EV008","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":402,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":250,"indent":0,"parameters":[{"name":"factrySE,11 heavy shot 2","volume":90,"pitch":150,"pan":0}]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[40]},{"code":213,"indent":0,"parameters":[-1,3,true]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":0,"parameters":[23,23,0,0,-80]},{"code":122,"indent":0,"parameters":[22,22,0,0,1]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":0,"parameters":[4]},{"code":117,"indent":0,"parameters":[1]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Phew... Is that everything?"]},{"code":117,"indent":0,"parameters":[3]},{"code":117,"indent":0,"parameters":[17]},{"code":101,"indent":0,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":0,"parameters":["Here's the last steam cylinder."]},{"code":101,"indent":0,"parameters":["",0,1,1,""]},{"code":401,"indent":0,"parameters":["Take the steam cylinder?"]},{"code":102,"indent":0,"parameters":[["Yes","No"],1,0,1,1]},{"code":402,"indent":0,"parameters":[0,"Yes"]},{"code":122,"indent":1,"parameters":[402,402,0,0,4]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"No"]},{"code":122,"indent":1,"parameters":[402,402,0,0,3]},{"code":117,"indent":1,"parameters":[1]},{"code":101,"indent":1,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":1,"parameters":["You can take care of that yourslf."]},{"code":101,"indent":1,"parameters":["",0,1,2,"Erina"]},{"code":401,"indent":1,"parameters":["I had a bad feeling about the cylinder, so I decided not to take"]},{"code":401,"indent":1,"parameters":["it from him."]},{"code":121,"indent":1,"parameters":[181,181,1]},{"code":117,"indent":1,"parameters":[5]},{"code":117,"indent":1,"parameters":[6]},{"code":221,"indent":1,"parameters":[]},{"code":230,"indent":1,"parameters":[30]},{"code":201,"indent":1,"parameters":[0,16,12,6,6,2]},{"code":222,"indent":1,"parameters":[]},{"code":230,"indent":1,"parameters":[30]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":1,"parameters":[23,23,0,0,-80]},{"code":122,"indent":1,"parameters":[22,22,0,0,2]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":1,"parameters":[4]},{"code":117,"indent":1,"parameters":[3]},{"code":101,"indent":1,"parameters":["",0,0,2,"Parts Shop Owner"]},{"code":401,"indent":1,"parameters":["Good work. Don't worry, if I have another request, I'll make"]},{"code":401,"indent":1,"parameters":["sure to ask for you again, Erina."]},{"code":121,"indent":1,"parameters":[181,181,0]},{"code":117,"indent":1,"parameters":[1]},{"code":101,"indent":1,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":1,"parameters":["Sure, appreciate the support. Bye."]},{"code":117,"indent":1,"parameters":[5]},{"code":117,"indent":1,"parameters":[6]},{"code":122,"indent":1,"parameters":[302,302,0,0,3]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":402,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":21,"y":7},null,null]}
+{
+  "autoplayBgm": false,
+  "autoplayBgs": true,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "bgs": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "disableDashing": false,
+  "displayName": "Era-Warehouse I",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 12,
+  "note": "<Darkness:20>",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 15,
+  "width": 26,
+  "data": [
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    565,
+    566,
+    0,
+    688,
+    689,
+    690,
+    691,
+    692,
+    693,
+    694,
+    695,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    573,
+    574,
+    575,
+    696,
+    697,
+    698,
+    699,
+    700,
+    701,
+    702,
+    703,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    581,
+    582,
+    583,
+    704,
+    705,
+    706,
+    707,
+    708,
+    709,
+    710,
+    711,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    589,
+    590,
+    591,
+    712,
+    713,
+    714,
+    715,
+    716,
+    717,
+    718,
+    719,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    597,
+    598,
+    599,
+    720,
+    721,
+    722,
+    723,
+    724,
+    725,
+    726,
+    727,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    605,
+    606,
+    607,
+    728,
+    729,
+    730,
+    731,
+    732,
+    733,
+    734,
+    735,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    613,
+    614,
+    615,
+    736,
+    737,
+    738,
+    739,
+    740,
+    741,
+    742,
+    743,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    621,
+    622,
+    623,
+    744,
+    745,
+    746,
+    747,
+    748,
+    749,
+    750,
+    751,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    564,
+    821,
+    822,
+    567,
+    944,
+    945,
+    946,
+    947,
+    948,
+    949,
+    950,
+    951,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    572,
+    829,
+    830,
+    831,
+    952,
+    953,
+    954,
+    955,
+    956,
+    957,
+    958,
+    959,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    580,
+    837,
+    838,
+    839,
+    960,
+    961,
+    962,
+    963,
+    964,
+    965,
+    966,
+    967,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    588,
+    845,
+    846,
+    847,
+    968,
+    969,
+    970,
+    971,
+    972,
+    973,
+    974,
+    975,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    596,
+    853,
+    854,
+    855,
+    976,
+    977,
+    978,
+    979,
+    980,
+    981,
+    982,
+    983,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    604,
+    861,
+    862,
+    863,
+    984,
+    985,
+    986,
+    987,
+    988,
+    989,
+    990,
+    991,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    612,
+    869,
+    870,
+    871,
+    992,
+    993,
+    994,
+    995,
+    996,
+    997,
+    998,
+    999,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    620,
+    877,
+    878,
+    879,
+    1000,
+    1001,
+    1002,
+    1003,
+    1004,
+    1005,
+    1006,
+    1007,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 0,
+              "parameters": [
+                0,
+                21,
+                19,
+                29,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": true
+        }
+      ],
+      "x": 16,
+      "y": 9
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 402,
+            "variableValid": true,
+            "variableValue": 4
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Okay."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 19,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 19,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 0,
+              "parameters": [
+                3,
+                8,
+                true
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(This is the same steam cylinder from before that's sensitive to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "impacts. The moment she places it down—bam! She'll eat a"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "face full of steam.)"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "And... down we g—"
+              ]
+            },
+            {
+              "code": 242,
+              "indent": 0,
+              "parameters": [
+                8
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "factrySE,08 steam",
+                  "volume": 90,
+                  "pitch": 60,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [
+                [
+                  255,
+                  255,
+                  255,
+                  0
+                ],
+                60,
+                false
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                10
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Kyah?!"
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 223,
+              "indent": 0,
+              "parameters": [
+                [
+                  0,
+                  0,
+                  0,
+                  0
+                ],
+                1,
+                true
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                115
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "......"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "..."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 16,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 16,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 313,
+              "indent": 0,
+              "parameters": [
+                0,
+                1,
+                0,
+                90
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "KBF_Event_Positive_06",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 0,
+              "parameters": [
+                -1,
+                7,
+                true
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                14
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Isn't this the same item from last time? You could've given me"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "a heads up, you know."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Heh-heh, sorry about that."
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                211
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "(Those tits are truly out of this world... And let's not forget how"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "soft they are...)"
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [
+                10,
+                0,
+                0,
+                0,
+                320,
+                0,
+                100,
+                100,
+                0,
+                0,
+                20,
+                false,
+                0
+              ]
+            },
+            {
+              "code": 232,
+              "indent": 0,
+              "parameters": [
+                11,
+                0,
+                0,
+                0,
+                320,
+                0,
+                100,
+                100,
+                0,
+                0,
+                10,
+                false,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Well, damn. It took me long time to get that item in stock, and"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it's ruined now because of you."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I-Isn't that just because the cylinder's defective?"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Maybe. In that case, you only need to pay for half of it."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I don't buy it..."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Not paying? I'll have to report this to Maxim then."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                14
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ugh, f-fine... I just need to provide compensation, right? How"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "much was it?"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Hmm, let's see... About 10,000 gold, more or less."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                15
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "H-Hey! That's way too high!"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "It's a special steam cylinder. I had to go through hell to get it"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "because of how scarce it is."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "But look, you're special to me, Erina. You can pay me back in"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "another way."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'd rather not hear what that might entail, but... Fine, let's hear"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Good, turn around."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Huh...? What for?"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You'll see soon."
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 19,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 19,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Okay, there."
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                216
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 16,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 16,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                21
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Wh-What do you mean next...?"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Isn't it obvious? You gotta calm this guy down here. With your"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "body, of course."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                19
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I-I don't know what you mean..."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Come on, you playing dumb here? We've come this far. The only"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "thing left to do is have sex. Right?"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                33
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There's no way... H-How about this? I'll let you fondle 10,000"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "gold's worth of my boobs, okay?!"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You're kidding, that still wouldn't be enough."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 29,
+                      "parameters": [
+                        2
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 18,
+                      "indent": null
+                    },
+                    {
+                      "code": 13,
+                      "indent": null
+                    },
+                    {
+                      "code": 29,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 29,
+                  "parameters": [
+                    2
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 18,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 13,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 29,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                3,
+                {
+                  "list": [
+                    {
+                      "code": 29,
+                      "parameters": [
+                        2
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 4,
+                      "indent": null
+                    },
+                    {
+                      "code": 17,
+                      "indent": null
+                    },
+                    {
+                      "code": 29,
+                      "parameters": [
+                        4
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 29,
+                  "parameters": [
+                    2
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 4,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 17,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 29,
+                  "parameters": [
+                    4
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 0,
+              "parameters": [
+                -1,
+                8,
+                false
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 0,
+              "parameters": [
+                3,
+                4,
+                true
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "If I don't figure something out right now, we're going to end"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "up having sex..."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                21
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "W-Wait. I've been thinking, but..."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "What?"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                27
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Isn't 10,000 gold too little for sex? It's not like I want to sell my"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "body for cheap, either."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Please, give up... Oh, but if it's for 10,000 gold, then maybe..."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Wait, no, no..."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Makes sense... Alright, fine, I'll just settle for a titjob. That good"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "enough?"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Huh...? T-Ti... What?"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Come here."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                30
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "W-Wait...?!"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼イベント開始"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                217
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                0,
+                276,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                219
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                218
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                402,
+                402,
+                0,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 402,
+            "variableValid": true,
+            "variableValue": 5
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼各種ステータス上昇値"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                467,
+                467,
+                0,
+                2,
+                60,
+                100
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                468,
+                468,
+                0,
+                2,
+                6,
+                10
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                470,
+                470,
+                0,
+                2,
+                6,
+                10
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼各種ステータス上昇値を清算"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                4,
+                1,
+                6,
+                21
+              ]
+            },
+            {
+              "code": 313,
+              "indent": 1,
+              "parameters": [
+                0,
+                1,
+                1,
+                21
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                583,
+                583,
+                1,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                97,
+                97,
+                0,
+                1,
+                583
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                97,
+                97,
+                1,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                183,
+                183,
+                1,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                184,
+                184,
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                192,
+                192,
+                1,
+                1,
+                468
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                194,
+                194,
+                1,
+                1,
+                470
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                100,
+                100,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                98,
+                98,
+                1,
+                1,
+                467
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                1,
+                98,
+                0,
+                100,
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                98,
+                98,
+                0,
+                0,
+                100
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼誰とSEXしたか"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                471,
+                471,
+                1,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼性交の経験"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                0,
+                276,
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                276,
+                276,
+                0
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                195,
+                195,
+                0,
+                4,
+                "\"Parts Shop Owner\""
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼パイズリの経験"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                0,
+                278,
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                278,
+                278,
+                0
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                189,
+                189,
+                0,
+                4,
+                "\"Experienced\""
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                140
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 0,
+              "parameters": [
+                -1,
+                7,
+                true
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                23
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "You better not tell anyone about this..."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Of course, I won't. You're my woman now, and I'd prefer to keep"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "it that way."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                28
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "That's not what I meant. Also, I better get my pay for this."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Yeah, yeah, I'll have it ready for you at the shop. Anyway, I'll"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "be waiting to have fun again."
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 0,
+              "parameters": [
+                0,
+                21,
+                19,
+                29,
+                2,
+                2
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                10
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 241,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "KBF_Town_City_09_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There won't be a next time..."
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼Hステータス上昇値を表示"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "sikouup",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 357,
+              "indent": 0,
+              "parameters": [
+                "DTextPicture",
+                "dText",
+                "文字列ピクチャ準備",
+                {
+                  "text": "Lewdness +5\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie +2\nCummed On +\\v[468]\nCreampie Volume +\\v[470]\n\nSex with Parts Shop Owner +1",
+                  "fontSize": "20"
+                }
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "表示文字列 = Lewdness +5\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie +2\nCummed On +\\v[468]\nCreampie Volume +\\v[470]\n\nSex with Parts Shop Owner +1"
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "フォントサイズ = 20"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                1,
+                "exp_hresalt",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                2,
+                "",
+                0,
+                0,
+                540,
+                120,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                2,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                402,
+                402,
+                0,
+                0,
+                6
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                302,
+                302,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 357,
+              "indent": 0,
+              "parameters": [
+                "SoR_GabWindow_MZ_Right",
+                "PushGab",
+                "呼び出し[おしゃべりポップアップ]",
+                {
+                  "arg0": "1",
+                  "arg1": "Ugh... My groin stings..."
+                }
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "顔グラフィックを表示するアクターID = 1"
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "メッセージ文字列 = Ugh... My groin stings..."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 402,
+            "variableValid": true,
+            "variableValue": 6
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 22,
+      "y": 7
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "npc_sprits1",
+            "direction": 8,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 12,
+      "y": 6
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "<animeLight:TMAnimeLight2y 80 -18 -18 4 1>"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 13,
+      "y": 5
+    },
+    {
+      "id": 5,
+      "name": "上層レイヤー",
+      "note": "<PLM:souko_>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 2,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 20,
+      "y": 0
+    },
+    null,
+    null,
+    {
+      "id": 8,
+      "name": "EV008",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 402,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "factrySE,11 heavy shot 2",
+                  "volume": 90,
+                  "pitch": 150,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                40
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 0,
+              "parameters": [
+                -1,
+                3,
+                true
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Phew... Is that everything?"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Here's the last steam cylinder."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Take the steam cylinder?"
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Yes",
+                  "No"
+                ],
+                1,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Yes"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                402,
+                402,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "No"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                402,
+                402,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "You can take care of that yourslf."
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                1,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I had a bad feeling about the cylinder, so I decided not to take"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "it from him."
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                16,
+                12,
+                6,
+                6,
+                2
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Parts Shop Owner"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Good work. Don't worry, if I have another request, I'll make"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "sure to ask for you again, Erina."
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Sure, appreciate the support. Bye."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                302,
+                302,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 402,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 21,
+      "y": 7
+    },
+    null,
+    null
+  ]
+}

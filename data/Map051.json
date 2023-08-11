@@ -1,1 +1,5537 @@
-{"autoplayBgm":true,"autoplayBgs":true,"battleback1Name":"","battleback2Name":"","bgm":{"name":"KBF_Dungeon_Natural_EW02_A","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":false,"displayName":"World Map","encounterList":[],"encounterStep":30,"height":15,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"map_era_shiera1280","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":2,"width":26,"data":[1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,1544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"events":[null,{"id":1,"name":"EV001","note":"<LB:Era Sheila><LB_S:482>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":482,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!$mapicon","direction":2,"pattern":0,"characterIndex":0},"list":[{"code":111,"indent":0,"parameters":[1,201,0,257,0]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":1,"parameters":[23,23,0,0,-80]},{"code":122,"indent":1,"parameters":[22,22,0,0,1]},{"code":122,"indent":1,"parameters":[27,27,0,0,2]},{"code":121,"indent":1,"parameters":[403,403,0]},{"code":121,"indent":1,"parameters":[402,402,0]},{"code":121,"indent":1,"parameters":[406,406,1]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":121,"indent":1,"parameters":[181,181,1]},{"code":121,"indent":1,"parameters":[183,183,0]},{"code":230,"indent":1,"parameters":[10]},{"code":117,"indent":1,"parameters":[4]},{"code":117,"indent":1,"parameters":[2]},{"code":101,"indent":1,"parameters":["",0,0,2,"Claire"]},{"code":401,"indent":1,"parameters":["I'll accompany you when you meet with Grus. He should know how"]},{"code":401,"indent":1,"parameters":["to open the box."]},{"code":121,"indent":1,"parameters":[181,181,0]},{"code":117,"indent":1,"parameters":[1]},{"code":101,"indent":1,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":1,"parameters":["Now... Where is the problem?"]},{"code":121,"indent":1,"parameters":[181,181,1]},{"code":121,"indent":1,"parameters":[183,183,1]},{"code":117,"indent":1,"parameters":[5]},{"code":117,"indent":1,"parameters":[6]},{"code":122,"indent":1,"parameters":[201,201,0,0,258]},{"code":230,"indent":1,"parameters":[20]},{"code":117,"indent":1,"parameters":[161]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":117,"indent":0,"parameters":[6]},{"code":117,"indent":0,"parameters":[16]},{"code":101,"indent":0,"parameters":["",0,1,1,"Era Sheila"]},{"code":401,"indent":0,"parameters":["Select your destination."]},{"code":102,"indent":0,"parameters":[["Miners Guild","East Era","West Era","Rail Yard","Quarry I-Entrance"],-2,0,1,1]},{"code":402,"indent":0,"parameters":[0,"Miners Guild"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,61,16,11,8,0]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Town_City_09_A","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"East Era"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,21,25,22,4,0]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Town_City_09_A","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"West Era"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,47,25,20,4,0]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Town_City_09_A","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Rail Yard"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,26,1,10,6,0]},{"code":241,"indent":1,"parameters":[{"name":"dis_SHOP_funny","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Quarry I-Entrance"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,3,14,8,2,0]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":117,"indent":1,"parameters":[17]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":102,"indent":0,"parameters":[["Undercity if(v[201]>=101)","Sheila if(v[201]>=127)"],-2,-1,1,1]},{"code":402,"indent":0,"parameters":[0,"Undercity if(v[201]>=101)"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,40,18,13,2,0]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Town_City_EW04_B","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Sheila if(v[201]>=127)"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,10,14,13,2,0]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Town_City_EW02","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":117,"indent":1,"parameters":[17]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}],"x":4,"y":3},{"id":2,"name":"EV002","note":"<LB:Quarry II><LB_S:483>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":483,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!$mapicon","direction":4,"pattern":0,"characterIndex":0},"list":[{"code":117,"indent":0,"parameters":[6]},{"code":117,"indent":0,"parameters":[16]},{"code":101,"indent":0,"parameters":["",0,1,1,"Quarry II"]},{"code":401,"indent":0,"parameters":["Select your destination."]},{"code":102,"indent":0,"parameters":[["Floor 1"],-2,0,1,1]},{"code":402,"indent":0,"parameters":[0,"Floor 1"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,53,23,2,2,0]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":483,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":304,"variableValid":true,"variableValue":3},"directionFix":true,"image":{"tileId":0,"characterName":"!$mapicon","direction":4,"pattern":0,"characterIndex":0},"list":[{"code":117,"indent":0,"parameters":[6]},{"code":117,"indent":0,"parameters":[16]},{"code":101,"indent":0,"parameters":["",0,1,1,"Quarry II"]},{"code":401,"indent":0,"parameters":["Select your destination."]},{"code":102,"indent":0,"parameters":[["Floor 1","Floor 2","Hidden Hot Spring"],-2,0,1,1]},{"code":402,"indent":0,"parameters":[0,"Floor 1"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,53,23,2,2,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Floor 2"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,54,25,7,4,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Hidden Hot Spring"]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,55,22,6,4,0]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":117,"indent":1,"parameters":[17]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}],"x":5,"y":1},{"id":3,"name":"EV003","note":"<LB:Coal Plant><LB_S:484>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":484,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":305,"variableValid":true,"variableValue":2},"directionFix":true,"image":{"tileId":0,"characterName":"!$mapicon","direction":6,"pattern":0,"characterIndex":0},"list":[{"code":117,"indent":0,"parameters":[6]},{"code":117,"indent":0,"parameters":[16]},{"code":101,"indent":0,"parameters":["",0,1,1,"Coal Plant"]},{"code":401,"indent":0,"parameters":["Select your destination."]},{"code":102,"indent":0,"parameters":[["Coal Plant Path"],-2,0,1,1]},{"code":402,"indent":0,"parameters":[0,"Coal Plant Path"]},{"code":117,"indent":1,"parameters":[17]},{"code":121,"indent":1,"parameters":[181,181,1]},{"code":117,"indent":1,"parameters":[4]},{"code":117,"indent":1,"parameters":[3]},{"code":250,"indent":1,"parameters":[{"name":"type_load","volume":90,"pitch":150,"pan":0}]},{"code":101,"indent":1,"parameters":["",0,1,1,""]},{"code":401,"indent":1,"parameters":["Erina's outfit will locked to Guild Worker for the request \"Coal"]},{"code":401,"indent":1,"parameters":["Prep Plan Investigation.\" If damaged, its Durability will be"]},{"code":401,"indent":1,"parameters":["restored to 100. Damage Kit will have its usage limited."]},{"code":102,"indent":1,"parameters":[["Yes","No"],1,0,1,1]},{"code":402,"indent":1,"parameters":[0,"Yes"]},{"code":111,"indent":2,"parameters":[1,405,0,0,0]},{"code":250,"indent":3,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":3,"parameters":[]},{"code":108,"indent":3,"parameters":["▼選炭所の調査による制限"]},{"code":121,"indent":3,"parameters":[260,260,1]},{"code":122,"indent":3,"parameters":[405,405,0,0,1]},{"code":117,"indent":3,"parameters":[21]},{"code":230,"indent":3,"parameters":[1]},{"code":117,"indent":3,"parameters":[174]},{"code":230,"indent":3,"parameters":[1]},{"code":117,"indent":3,"parameters":[180]},{"code":241,"indent":3,"parameters":[{"name":"KBF_Dungeon_Natural_EW02_A","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":3,"parameters":[0,63,7,8,6,2]},{"code":230,"indent":3,"parameters":[40]},{"code":223,"indent":3,"parameters":[[34,-17,-17,34],1,true]},{"code":222,"indent":3,"parameters":[]},{"code":230,"indent":3,"parameters":[40]},{"code":213,"indent":3,"parameters":[-1,11,true]},{"code":108,"indent":3,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":3,"parameters":[23,23,0,0,-80]},{"code":122,"indent":3,"parameters":[22,22,0,0,1]},{"code":122,"indent":3,"parameters":[21,21,0,0,1]},{"code":108,"indent":3,"parameters":["----------------------------立ち絵準備"]},{"code":121,"indent":3,"parameters":[181,181,0]},{"code":117,"indent":3,"parameters":[4]},{"code":117,"indent":3,"parameters":[1]},{"code":101,"indent":3,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":3,"parameters":["It's gotten pretty late. We should be getting close according to"]},{"code":401,"indent":3,"parameters":["the map, though."]},{"code":117,"indent":3,"parameters":[3]},{"code":101,"indent":3,"parameters":["",0,0,2,"Rosch"]},{"code":401,"indent":3,"parameters":["Looks like we'll have to leave the investigation for tomorrow."]},{"code":122,"indent":3,"parameters":[22,22,0,0,13]},{"code":117,"indent":3,"parameters":[1]},{"code":101,"indent":3,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":3,"parameters":["Right... I'm starting to see monsters, too. I should've just let the"]},{"code":401,"indent":3,"parameters":["two of you handle this if this was going to happen."]},{"code":122,"indent":3,"parameters":[22,22,0,0,7]},{"code":101,"indent":3,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":3,"parameters":["Then again, I didn't hear anything about you two coming along."]},{"code":117,"indent":3,"parameters":[3]},{"code":101,"indent":3,"parameters":["",0,0,2,"Rosch"]},{"code":401,"indent":3,"parameters":["Maxim didn't tell you? Anyway, we're here on his orders, so we"]},{"code":401,"indent":3,"parameters":["don't have much of a choice. Right?"]},{"code":122,"indent":3,"parameters":[22,22,0,0,12]},{"code":117,"indent":3,"parameters":[1]},{"code":101,"indent":3,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":3,"parameters":["If only he had just asked other people. Like, I don't know, guys"]},{"code":401,"indent":3,"parameters":["who aren't perverts and actual decent human beings."]},{"code":117,"indent":3,"parameters":[3]},{"code":101,"indent":3,"parameters":["",0,0,2,"Rosch"]},{"code":401,"indent":3,"parameters":["Heh-heh... You really think there's a guy like that in the guild?"]},{"code":122,"indent":3,"parameters":[22,22,0,0,20]},{"code":117,"indent":3,"parameters":[1]},{"code":101,"indent":3,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":3,"parameters":["There is... I hope."]},{"code":121,"indent":3,"parameters":[181,181,1]},{"code":221,"indent":3,"parameters":[]},{"code":122,"indent":3,"parameters":[405,405,0,0,2]},{"code":108,"indent":3,"parameters":["▼依頼書開放"]},{"code":250,"indent":3,"parameters":[{"name":"type_load","volume":90,"pitch":150,"pan":0}]},{"code":117,"indent":3,"parameters":[3]},{"code":101,"indent":3,"parameters":["",0,1,1,"Feature Unlocked"]},{"code":401,"indent":3,"parameters":["Fellows unlocked."]},{"code":401,"indent":3,"parameters":["Danny and Rosch have joined your party."]},{"code":230,"indent":3,"parameters":[30]},{"code":108,"indent":3,"parameters":["▼フェロー加入処理"]},{"code":122,"indent":3,"parameters":[12,12,0,0,12]},{"code":121,"indent":3,"parameters":[562,562,0]},{"code":108,"indent":3,"parameters":["▼着替えコマンドによる衣装変更NG"]},{"code":122,"indent":3,"parameters":[14,14,0,0,999]},{"code":313,"indent":3,"parameters":[0,1,0,31]},{"code":222,"indent":3,"parameters":[]},{"code":230,"indent":3,"parameters":[20]},{"code":250,"indent":3,"parameters":[{"name":"type_load","volume":90,"pitch":150,"pan":0}]},{"code":121,"indent":3,"parameters":[181,181,0]},{"code":357,"indent":3,"parameters":["DTextPicture","dText","文字列ピクチャ準備",{"text":"About Fellows\n\nFellows are members that accompany Erina and assist in battle.\nHowever, they are not targetable by enemies.\n\nYou can confirm what members are currently in your party in\nthe menu.","fontSize":"20"}]},{"code":657,"indent":3,"parameters":["表示文字列 = About Fellows\n\nFellows are members that accompany Erina and assist in battle.\nHowever, they are not targetable by enemies.\n\nYou can confirm what members are currently in your party in\nthe menu."]},{"code":657,"indent":3,"parameters":["フォントサイズ = 20"]},{"code":231,"indent":3,"parameters":[1,"exp_hresalt",0,0,0,0,100,100,255,0]},{"code":231,"indent":3,"parameters":[2,"",0,0,540,120,100,100,255,0]},{"code":101,"indent":3,"parameters":["",0,2,2,""]},{"code":401,"indent":3,"parameters":[""]},{"code":235,"indent":3,"parameters":[1]},{"code":235,"indent":3,"parameters":[2]},{"code":121,"indent":3,"parameters":[181,181,1]},{"code":117,"indent":3,"parameters":[5]},{"code":117,"indent":3,"parameters":[6]},{"code":122,"indent":3,"parameters":[201,201,0,0,85]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":117,"indent":3,"parameters":[17]},{"code":117,"indent":3,"parameters":[5]},{"code":117,"indent":3,"parameters":[6]},{"code":250,"indent":3,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":3,"parameters":[]},{"code":108,"indent":3,"parameters":["▼選炭所の調査による制限"]},{"code":121,"indent":3,"parameters":[260,260,1]},{"code":117,"indent":3,"parameters":[21]},{"code":230,"indent":3,"parameters":[1]},{"code":117,"indent":3,"parameters":[174]},{"code":230,"indent":3,"parameters":[1]},{"code":117,"indent":3,"parameters":[180]},{"code":201,"indent":3,"parameters":[0,63,1,8,6,2]},{"code":108,"indent":3,"parameters":["▼フェロー加入処理"]},{"code":122,"indent":3,"parameters":[12,12,0,0,12]},{"code":121,"indent":3,"parameters":[562,562,0]},{"code":108,"indent":3,"parameters":["▼着替えコマンドによる衣装変更NG"]},{"code":122,"indent":3,"parameters":[14,14,0,0,999]},{"code":313,"indent":3,"parameters":[0,1,0,31]},{"code":223,"indent":3,"parameters":[[34,-17,-17,34],1,true]},{"code":222,"indent":3,"parameters":[]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":402,"indent":1,"parameters":[1,"No"]},{"code":117,"indent":2,"parameters":[17]},{"code":117,"indent":2,"parameters":[5]},{"code":117,"indent":2,"parameters":[6]},{"code":0,"indent":2,"parameters":[]},{"code":404,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":117,"indent":1,"parameters":[17]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":484,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":305,"variableValid":true,"variableValue":3},"directionFix":true,"image":{"tileId":0,"characterName":"!$mapicon","direction":6,"pattern":0,"characterIndex":0},"list":[{"code":117,"indent":0,"parameters":[6]},{"code":117,"indent":0,"parameters":[16]},{"code":101,"indent":0,"parameters":["",0,1,1,"Coal Plant"]},{"code":401,"indent":0,"parameters":["Select your destination."]},{"code":102,"indent":0,"parameters":[["Coal Plant Path"],-2,0,1,1]},{"code":402,"indent":0,"parameters":[0,"Coal Plant Path"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":1,"parameters":[]},{"code":201,"indent":1,"parameters":[0,63,1,8,6,2]},{"code":223,"indent":1,"parameters":[[34,-17,-17,34],1,true]},{"code":222,"indent":1,"parameters":[]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Dungeon_Natural_EW02_A","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":117,"indent":1,"parameters":[17]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":484,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":201,"variableValid":true,"variableValue":90},"directionFix":true,"image":{"tileId":0,"characterName":"!$mapicon","direction":6,"pattern":0,"characterIndex":0},"list":[{"code":117,"indent":0,"parameters":[6]},{"code":117,"indent":0,"parameters":[16]},{"code":101,"indent":0,"parameters":["",0,1,1,"Coal Plant"]},{"code":401,"indent":0,"parameters":["Select your destination."]},{"code":102,"indent":0,"parameters":[["Coal Plant Path","Coal Plant","Coal Plant-Inside","Path to Water Spring","Water Spring"],-2,0,1,1]},{"code":402,"indent":0,"parameters":[0,"Coal Plant Path"]},{"code":117,"indent":1,"parameters":[17]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":1,"parameters":[]},{"code":201,"indent":1,"parameters":[0,63,1,8,6,2]},{"code":222,"indent":1,"parameters":[]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Dungeon_Natural_EW02_A","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"Coal Plant"]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":1,"parameters":[]},{"code":201,"indent":1,"parameters":[0,64,1,18,6,2]},{"code":222,"indent":1,"parameters":[]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Dungeon_Natural_EW02_A","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[2,"Coal Plant-Inside"]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":1,"parameters":[]},{"code":201,"indent":1,"parameters":[0,66,12,6,2,2]},{"code":222,"indent":1,"parameters":[]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Dungeon_Natural_EW02_A","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[3,"Path to Water Spring"]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":1,"parameters":[]},{"code":201,"indent":1,"parameters":[0,67,14,27,8,2]},{"code":222,"indent":1,"parameters":[]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Dungeon_Natural_EW02_A","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[4,"Water Spring"]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":221,"indent":1,"parameters":[]},{"code":201,"indent":1,"parameters":[0,68,1,13,8,2]},{"code":222,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":403,"indent":0,"parameters":[6,null]},{"code":117,"indent":1,"parameters":[17]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}],"x":7,"y":6},null,null,null,null,{"id":8,"name":"EV008","note":"<PLM:lakefog>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":500,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}],"x":1,"y":0},null,null]}
+{
+  "autoplayBgm": true,
+  "autoplayBgs": true,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": {
+    "name": "KBF_Dungeon_Natural_EW02_A",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "bgs": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "disableDashing": false,
+  "displayName": "World Map",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 15,
+  "note": "",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "map_era_shiera1280",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 2,
+  "width": 26,
+  "data": [
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    1544,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "EV001",
+      "note": "<LB:Era Sheila><LB_S:482>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 482,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!$mapicon",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                1,
+                201,
+                0,
+                257,
+                0
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                27,
+                27,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                403,
+                403,
+                0
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                402,
+                402,
+                0
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                406,
+                406,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                183,
+                183,
+                0
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                10
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Claire"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "I'll accompany you when you meet with Grus. He should know how"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "to open the box."
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Now... Where is the problem?"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                183,
+                183,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                201,
+                201,
+                0,
+                0,
+                258
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                161
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                16
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                "Era Sheila"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Select your destination."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Miners Guild",
+                  "East Era",
+                  "West Era",
+                  "Rail Yard",
+                  "Quarry I-Entrance"
+                ],
+                -2,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Miners Guild"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                61,
+                16,
+                11,
+                8,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Town_City_09_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "East Era"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                21,
+                25,
+                22,
+                4,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Town_City_09_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                2,
+                "West Era"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                47,
+                25,
+                20,
+                4,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Town_City_09_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                3,
+                "Rail Yard"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                26,
+                1,
+                10,
+                6,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "dis_SHOP_funny",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                4,
+                "Quarry I-Entrance"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                3,
+                14,
+                8,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 0,
+              "parameters": [
+                6,
+                null
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Undercity if(v[201]>=101)",
+                  "Sheila if(v[201]>=127)"
+                ],
+                -2,
+                -1,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Undercity if(v[201]>=101)"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                40,
+                18,
+                13,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Town_City_EW04_B",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Sheila if(v[201]>=127)"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                10,
+                14,
+                13,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Town_City_EW02",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 0,
+              "parameters": [
+                6,
+                null
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 4,
+      "y": 3
+    },
+    {
+      "id": 2,
+      "name": "EV002",
+      "note": "<LB:Quarry II><LB_S:483>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 483,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!$mapicon",
+            "direction": 4,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                16
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                "Quarry II"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Select your destination."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Floor 1"
+                ],
+                -2,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Floor 1"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                53,
+                23,
+                2,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 0,
+              "parameters": [
+                6,
+                null
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 483,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 304,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!$mapicon",
+            "direction": 4,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                16
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                "Quarry II"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Select your destination."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Floor 1",
+                  "Floor 2",
+                  "Hidden Hot Spring"
+                ],
+                -2,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Floor 1"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                53,
+                23,
+                2,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Floor 2"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                54,
+                25,
+                7,
+                4,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                2,
+                "Hidden Hot Spring"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                55,
+                22,
+                6,
+                4,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 0,
+              "parameters": [
+                6,
+                null
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 5,
+      "y": 1
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "<LB:Coal Plant><LB_S:484>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 484,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 305,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!$mapicon",
+            "direction": 6,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                16
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                "Coal Plant"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Select your destination."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Coal Plant Path"
+                ],
+                -2,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Coal Plant Path"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "type_load",
+                  "volume": 90,
+                  "pitch": 150,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Erina's outfit will locked to Guild Worker for the request \"Coal"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Prep Plan Investigation.\" If damaged, its Durability will be"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "restored to 100. Damage Kit will have its usage limited."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 1,
+              "parameters": [
+                [
+                  "Yes",
+                  "No"
+                ],
+                1,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [
+                0,
+                "Yes"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 2,
+              "parameters": [
+                1,
+                405,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [
+                "▼選炭所の調査による制限"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [
+                260,
+                260,
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                405,
+                405,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                21
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 3,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                174
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 3,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                180
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "KBF_Dungeon_Natural_EW02_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 3,
+              "parameters": [
+                0,
+                63,
+                7,
+                8,
+                6,
+                2
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 3,
+              "parameters": [
+                40
+              ]
+            },
+            {
+              "code": 223,
+              "indent": 3,
+              "parameters": [
+                [
+                  34,
+                  -17,
+                  -17,
+                  34
+                ],
+                1,
+                true
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 3,
+              "parameters": [
+                40
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 3,
+              "parameters": [
+                -1,
+                11,
+                true
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "It's gotten pretty late. We should be getting close according to"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "the map, though."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Rosch"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "Looks like we'll have to leave the investigation for tomorrow."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "Right... I'm starting to see monsters, too. I should've just let the"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "two of you handle this if this was going to happen."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                7
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "Then again, I didn't hear anything about you two coming along."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Rosch"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "Maxim didn't tell you? Anyway, we're here on his orders, so we"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "don't have much of a choice. Right?"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "If only he had just asked other people. Like, I don't know, guys"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "who aren't perverts and actual decent human beings."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Rosch"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "Heh-heh... You really think there's a guy like that in the guild?"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "There is... I hope."
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                405,
+                405,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [
+                "▼依頼書開放"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "type_load",
+                  "volume": 90,
+                  "pitch": 150,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                "Feature Unlocked"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "Fellows unlocked."
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                "Danny and Rosch have joined your party."
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 3,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [
+                "▼フェロー加入処理"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                12,
+                12,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [
+                562,
+                562,
+                0
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [
+                "▼着替えコマンドによる衣装変更NG"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                14,
+                14,
+                0,
+                0,
+                999
+              ]
+            },
+            {
+              "code": 313,
+              "indent": 3,
+              "parameters": [
+                0,
+                1,
+                0,
+                31
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 3,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "type_load",
+                  "volume": 90,
+                  "pitch": 150,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 357,
+              "indent": 3,
+              "parameters": [
+                "DTextPicture",
+                "dText",
+                "文字列ピクチャ準備",
+                {
+                  "text": "About Fellows\n\nFellows are members that accompany Erina and assist in battle.\nHowever, they are not targetable by enemies.\n\nYou can confirm what members are currently in your party in\nthe menu.",
+                  "fontSize": "20"
+                }
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 3,
+              "parameters": [
+                "表示文字列 = About Fellows\n\nFellows are members that accompany Erina and assist in battle.\nHowever, they are not targetable by enemies.\n\nYou can confirm what members are currently in your party in\nthe menu."
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 3,
+              "parameters": [
+                "フォントサイズ = 20"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 3,
+              "parameters": [
+                1,
+                "exp_hresalt",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 3,
+              "parameters": [
+                2,
+                "",
+                0,
+                0,
+                540,
+                120,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 3,
+              "parameters": [
+                "",
+                0,
+                2,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 3,
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 3,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 3,
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                201,
+                201,
+                0,
+                0,
+                85
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [
+                "▼選炭所の調査による制限"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [
+                260,
+                260,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                21
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 3,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                174
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 3,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 3,
+              "parameters": [
+                180
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 3,
+              "parameters": [
+                0,
+                63,
+                1,
+                8,
+                6,
+                2
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [
+                "▼フェロー加入処理"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                12,
+                12,
+                0,
+                0,
+                12
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [
+                562,
+                562,
+                0
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 3,
+              "parameters": [
+                "▼着替えコマンドによる衣装変更NG"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 3,
+              "parameters": [
+                14,
+                14,
+                0,
+                0,
+                999
+              ]
+            },
+            {
+              "code": 313,
+              "indent": 3,
+              "parameters": [
+                0,
+                1,
+                0,
+                31
+              ]
+            },
+            {
+              "code": 223,
+              "indent": 3,
+              "parameters": [
+                [
+                  34,
+                  -17,
+                  -17,
+                  34
+                ],
+                1,
+                true
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 1,
+              "parameters": [
+                1,
+                "No"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 2,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 2,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 2,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 0,
+              "parameters": [
+                6,
+                null
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 484,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 305,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!$mapicon",
+            "direction": 6,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                16
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                "Coal Plant"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Select your destination."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Coal Plant Path"
+                ],
+                -2,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Coal Plant Path"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                63,
+                1,
+                8,
+                6,
+                2
+              ]
+            },
+            {
+              "code": 223,
+              "indent": 1,
+              "parameters": [
+                [
+                  34,
+                  -17,
+                  -17,
+                  34
+                ],
+                1,
+                true
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Dungeon_Natural_EW02_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 0,
+              "parameters": [
+                6,
+                null
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 484,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 201,
+            "variableValid": true,
+            "variableValue": 90
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "!$mapicon",
+            "direction": 6,
+            "pattern": 0,
+            "characterIndex": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                16
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                "Coal Plant"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Select your destination."
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Coal Plant Path",
+                  "Coal Plant",
+                  "Coal Plant-Inside",
+                  "Path to Water Spring",
+                  "Water Spring"
+                ],
+                -2,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Coal Plant Path"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                63,
+                1,
+                8,
+                6,
+                2
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Dungeon_Natural_EW02_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "Coal Plant"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                64,
+                1,
+                18,
+                6,
+                2
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Dungeon_Natural_EW02_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                2,
+                "Coal Plant-Inside"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                66,
+                12,
+                6,
+                2,
+                2
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Dungeon_Natural_EW02_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                3,
+                "Path to Water Spring"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                67,
+                14,
+                27,
+                8,
+                2
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Dungeon_Natural_EW02_A",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                4,
+                "Water Spring"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                68,
+                1,
+                13,
+                8,
+                2
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 0,
+              "parameters": [
+                6,
+                null
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                17
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 7,
+      "y": 6
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "id": 8,
+      "name": "EV008",
+      "note": "<PLM:lakefog>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 500,
+            "switch1Valid": true,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 1,
+      "y": 0
+    },
+    null,
+    null
+  ]
+}

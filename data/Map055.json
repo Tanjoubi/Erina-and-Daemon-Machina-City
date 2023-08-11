@@ -1,1 +1,7315 @@
-{"autoplayBgm":true,"autoplayBgs":true,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"Drips","pan":0,"pitch":50,"volume":70},"disableDashing":false,"displayName":"Hidden Hot Spring","encounterList":[],"encounterStep":30,"height":16,"note":"<fgName:Smog70><fgLoopX:1><fgLoopY:1><fgSx:1><fgSy:1>","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"Mountains2s","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":32,"width":27,"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,608,609,528,529,530,531,532,533,534,535,656,657,658,659,660,661,662,663,0,0,0,0,0,0,0,0,0,616,617,536,537,538,539,540,541,542,543,664,665,666,667,668,669,670,671,0,0,0,0,0,0,0,0,0,624,625,544,545,546,547,548,549,550,551,672,673,674,675,676,677,678,679,0,0,0,0,0,0,0,0,0,632,633,552,553,554,555,556,557,558,559,680,681,682,683,684,685,686,687,0,0,0,0,0,0,0,0,0,613,614,560,561,562,563,564,565,566,567,688,689,690,691,692,693,694,695,0,0,0,0,0,0,0,0,0,621,622,568,569,570,571,572,573,574,575,696,697,698,699,700,701,702,703,0,0,0,0,0,0,0,0,0,629,630,576,577,578,579,580,581,582,583,704,705,706,707,708,709,710,711,0,0,0,0,0,0,0,0,0,637,638,584,585,586,587,588,589,590,591,712,713,714,715,716,717,718,719,0,0,0,0,0,0,0,0,0,753,754,592,593,594,595,596,597,598,599,720,721,722,723,724,725,726,727,0,0,0,0,0,0,0,0,0,761,762,600,601,602,603,604,605,606,607,728,729,730,731,732,733,734,735,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4242,4244,2238,0,0,0,0,4242,4228,4244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4248,4218,4244,0,0,0,0,4248,4236,4218,4244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4248,4246,2238,0,0,0,0,0,4248,4238,4253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4242,4228,4244,0,2238,0,0,0,0,0,4250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4248,4216,4210,4244,0,0,0,0,4242,4229,4247,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4248,4236,4246,0,0,0,0,4248,4246,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3522,3524,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3522,3508,3489,3490,3524,0,0,3522,3508,3524,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3504,3488,3488,3488,3512,0,3522,3489,3488,3490,3508,3524,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3504,3488,3488,3492,3526,0,3504,3488,3488,3488,3488,3512,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3504,3488,3488,3512,0,0,3504,3488,3488,3488,3492,3526,0,0,0,0,3522,3524,0,0,0,0,0,0,0,0,0,3528,3516,3516,3526,0,0,3528,3496,3488,3492,3526,0,0,0,3522,3508,3493,3526,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3528,3516,3526,0,0,0,0,3528,3516,3526,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,865,866,867,768,769,770,771,772,773,774,775,896,897,898,899,900,901,902,903,864,864,864,864,864,864,864,872,873,874,875,776,777,778,779,780,781,782,783,904,905,906,907,908,909,910,911,864,864,864,864,864,864,864,880,881,882,0,0,0,0,787,788,0,0,791,912,913,0,0,0,0,0,919,864,864,864,864,864,864,864,888,889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,864,864,864,864,864,864,864,869,870,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,864,864,864,864,864,864,864,877,878,0,839,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,864,864,864,864,864,864,864,885,886,887,1008,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,951,864,864,864,864,864,864,864,893,894,895,1016,839,0,0,0,0,0,0,0,0,0,0,0,0,0,0,959,864,864,864,864,864,864,864,994,995,996,997,832,0,0,0,0,0,0,839,960,961,962,963,0,0,966,967,864,864,864,864,864,864,864,1002,1003,1004,1005,840,841,0,0,0,845,846,0,968,969,970,971,0,973,974,975,864,864,864,864,864,864,864,1010,1011,1012,1013,848,849,850,851,852,853,854,855,976,977,978,979,980,981,982,983,864,864,864,864,864,864,864,1018,1019,1020,1021,856,857,858,859,860,861,862,863,984,985,986,987,988,989,990,991,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"events":[null,{"id":1,"name":"Move (Quarry II, Floor 2)","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"yajirusi","direction":6,"pattern":1,"characterIndex":6},"list":[{"code":111,"indent":0,"parameters":[1,304,0,3,1]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":1,"parameters":[23,23,0,0,-80]},{"code":122,"indent":1,"parameters":[22,22,0,0,20]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":121,"indent":1,"parameters":[181,181,1]},{"code":117,"indent":1,"parameters":[4]},{"code":117,"indent":1,"parameters":[3]},{"code":108,"indent":1,"parameters":["▼メイン進行度64"]},{"code":111,"indent":1,"parameters":[1,201,0,64,1]},{"code":102,"indent":2,"parameters":[["Go to World Map?","Floor 2"],-2,0,1,1]},{"code":402,"indent":2,"parameters":[0,"Go to World Map?"]},{"code":250,"indent":3,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":3,"parameters":[0,51,5,1,2,0]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"Floor 2"]},{"code":250,"indent":3,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":3,"parameters":[0,54,1,9,0,0]},{"code":241,"indent":3,"parameters":[{"name":"KBF_Field_Land_09","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":3,"parameters":[]},{"code":403,"indent":2,"parameters":[6,null]},{"code":205,"indent":3,"parameters":[-1,{"list":[{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":3,"parameters":[{"code":2,"indent":null}]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":117,"indent":2,"parameters":[5]},{"code":117,"indent":2,"parameters":[6]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,54,1,9,0,0]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Field_Land_09","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":1,"walkAnime":false}],"x":23,"y":6},{"id":2,"name":"Move (Quarry II, Floor 2)","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"yajirusi","direction":6,"pattern":1,"characterIndex":6},"list":[{"code":111,"indent":0,"parameters":[1,304,0,3,1]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":1,"parameters":[23,23,0,0,-80]},{"code":122,"indent":1,"parameters":[22,22,0,0,20]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":121,"indent":1,"parameters":[181,181,1]},{"code":117,"indent":1,"parameters":[4]},{"code":117,"indent":1,"parameters":[3]},{"code":108,"indent":1,"parameters":["▼メイン進行度64"]},{"code":111,"indent":1,"parameters":[1,201,0,64,1]},{"code":102,"indent":2,"parameters":[["Go to World Map?","Floor 2"],-2,0,1,1]},{"code":402,"indent":2,"parameters":[0,"Go to World Map?"]},{"code":250,"indent":3,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":3,"parameters":[0,51,5,1,2,0]},{"code":0,"indent":3,"parameters":[]},{"code":402,"indent":2,"parameters":[1,"Floor 2"]},{"code":250,"indent":3,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":3,"parameters":[0,54,1,9,0,0]},{"code":241,"indent":3,"parameters":[{"name":"KBF_Field_Land_09","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":3,"parameters":[]},{"code":403,"indent":2,"parameters":[6,null]},{"code":205,"indent":3,"parameters":[-1,{"list":[{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":3,"parameters":[{"code":2,"indent":null}]},{"code":0,"indent":3,"parameters":[]},{"code":404,"indent":2,"parameters":[]},{"code":117,"indent":2,"parameters":[5]},{"code":117,"indent":2,"parameters":[6]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":250,"indent":1,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":201,"indent":1,"parameters":[0,54,1,9,0,0]},{"code":241,"indent":1,"parameters":[{"name":"KBF_Field_Land_09","volume":90,"pitch":100,"pan":0}]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":true,"through":false,"trigger":1,"walkAnime":false}],"x":23,"y":7},{"id":3,"name":"EV003","note":"<NESフキダシ対象:4><NESスイッチ:475><BalloonY:-20>","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":201,"variableValid":true,"variableValue":78},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":2,"pattern":0,"characterIndex":4},"list":[{"code":117,"indent":0,"parameters":[6]},{"code":117,"indent":0,"parameters":[18]},{"code":101,"indent":0,"parameters":["",0,0,2,""]},{"code":401,"indent":0,"parameters":["Enter the hot spring?"]},{"code":102,"indent":0,"parameters":[["Yes","No"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"Yes"]},{"code":121,"indent":1,"parameters":[475,475,1]},{"code":111,"indent":1,"parameters":[0,120,0]},{"code":121,"indent":2,"parameters":[81,81,0]},{"code":111,"indent":2,"parameters":[10,151,true]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":357,"indent":3,"parameters":["SoR_PopupItemIndicator_MZ_Right","DisableItemPopIndicator","取得ポップアップ描画OFF[ポップアップ式アイテム取得インジケータ]",{}]},{"code":128,"indent":3,"parameters":[151,0,0,1,false]},{"code":357,"indent":3,"parameters":["SoR_PopupItemIndicator_MZ_Right","EnableItemPopIndicator","取得ポップアップ描画ON[ポップアップ式アイテム取得インジケータ]",{}]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":121,"indent":2,"parameters":[81,81,0]},{"code":111,"indent":2,"parameters":[10,151,true]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":357,"indent":3,"parameters":["SoR_PopupItemIndicator_MZ_Right","DisableItemPopIndicator","取得ポップアップ描画OFF[ポップアップ式アイテム取得インジケータ]",{}]},{"code":128,"indent":3,"parameters":[151,0,0,1,false]},{"code":357,"indent":3,"parameters":["SoR_PopupItemIndicator_MZ_Right","EnableItemPopIndicator","取得ポップアップ描画ON[ポップアップ式アイテム取得インジケータ]",{}]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":221,"indent":1,"parameters":[]},{"code":242,"indent":1,"parameters":[7]},{"code":201,"indent":1,"parameters":[0,55,13,6,2,2]},{"code":117,"indent":1,"parameters":[34]},{"code":117,"indent":1,"parameters":[31]},{"code":117,"indent":1,"parameters":[19]},{"code":108,"indent":1,"parameters":["▼イベント"]},{"code":117,"indent":1,"parameters":[209]},{"code":111,"indent":1,"parameters":[1,362,0,1,0]},{"code":119,"indent":2,"parameters":["end"]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":117,"indent":1,"parameters":[35]},{"code":117,"indent":1,"parameters":[116]},{"code":201,"indent":1,"parameters":[0,55,17,7,6,2]},{"code":230,"indent":1,"parameters":[30]},{"code":108,"indent":1,"parameters":["▼服を戻す"]},{"code":111,"indent":1,"parameters":[1,97,0,100,1]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":111,"indent":2,"parameters":[0,120,0]},{"code":0,"indent":3,"parameters":[]},{"code":411,"indent":2,"parameters":[]},{"code":121,"indent":3,"parameters":[81,81,1]},{"code":128,"indent":3,"parameters":[151,1,0,1,false]},{"code":0,"indent":3,"parameters":[]},{"code":412,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":222,"indent":1,"parameters":[]},{"code":213,"indent":1,"parameters":[-1,3,true]},{"code":230,"indent":1,"parameters":[30]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":121,"indent":1,"parameters":[181,181,1]},{"code":122,"indent":1,"parameters":[23,23,0,0,-80]},{"code":122,"indent":1,"parameters":[22,22,0,0,2]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":1,"parameters":[4]},{"code":117,"indent":1,"parameters":[1]},{"code":121,"indent":1,"parameters":[181,181,0]},{"code":101,"indent":1,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":1,"parameters":["Phew... That was refreshing. I'll come again."]},{"code":117,"indent":1,"parameters":[5]},{"code":117,"indent":1,"parameters":[6]},{"code":121,"indent":1,"parameters":[475,475,0]},{"code":0,"indent":1,"parameters":[]},{"code":402,"indent":0,"parameters":[1,"No"]},{"code":117,"indent":1,"parameters":[19]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":118,"indent":0,"parameters":["end"]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":4},"directionFix":true,"image":{"tileId":0,"characterName":"","direction":2,"pattern":0,"characterIndex":4},"list":[{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":122,"indent":0,"parameters":[23,23,0,0,-80]},{"code":122,"indent":0,"parameters":[22,22,0,0,13]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":0,"parameters":[4]},{"code":117,"indent":0,"parameters":[1]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["I'm not in the mood to go again, especially considering what"]},{"code":401,"indent":0,"parameters":["happened earlier."]},{"code":117,"indent":0,"parameters":[3]},{"code":108,"indent":0,"parameters":["▼イベント条件"]},{"code":250,"indent":0,"parameters":[{"name":"type_load","volume":90,"pitch":150,"pan":0}]},{"code":101,"indent":0,"parameters":["",0,1,1,"Event Conditions"]},{"code":401,"indent":0,"parameters":["Available in the full game."]},{"code":117,"indent":0,"parameters":[5]},{"code":117,"indent":0,"parameters":[6]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}],"x":17,"y":6},{"id":4,"name":"EV004","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":230,"indent":0,"parameters":[40]},{"code":222,"indent":0,"parameters":[]},{"code":230,"indent":0,"parameters":[20]},{"code":250,"indent":0,"parameters":[{"name":"Move1","volume":90,"pitch":100,"pan":0}]},{"code":122,"indent":0,"parameters":[362,362,0,0,2]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[6,{"list":[{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":230,"indent":0,"parameters":[30]},{"code":213,"indent":0,"parameters":[5,11,true]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":0,"parameters":[21,21,0,0,6]},{"code":122,"indent":0,"parameters":[22,22,0,0,21]},{"code":122,"indent":0,"parameters":[23,23,0,0,-80]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":0,"parameters":[4]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Middle-Aged Man"]},{"code":401,"indent":0,"parameters":["Ohh! This is the hot spring everybody's been talking about, huh?"]},{"code":401,"indent":0,"parameters":["Way better than I imagined."]},{"code":205,"indent":0,"parameters":[5,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":205,"indent":0,"parameters":[6,{"list":[{"code":29,"parameters":[2],"indent":null},{"code":2,"indent":null},{"code":2,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[2],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":2,"indent":null}]},{"code":213,"indent":0,"parameters":[-1,1,false]},{"code":205,"indent":0,"parameters":[-1,{"list":[{"code":18,"indent":null},{"code":0}],"repeat":false,"skippable":false,"wait":true}]},{"code":505,"indent":0,"parameters":[{"code":18,"indent":null}]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Geh... Someone's here."]},{"code":213,"indent":0,"parameters":[5,2,true]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Middle-Aged Man"]},{"code":401,"indent":0,"parameters":["Hmm? Someone's already here. No idea who you are, but don't"]},{"code":401,"indent":0,"parameters":["be a stranger. You could've given us the heads u—"]},{"code":101,"indent":0,"parameters":["",0,0,2,"Middle-Aged Man"]},{"code":401,"indent":0,"parameters":["Now this is a happy surprise. Aren't you..."]},{"code":122,"indent":0,"parameters":[22,22,0,0,33]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["Hello there..."]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Middle-Aged Man"]},{"code":401,"indent":0,"parameters":["Heh-heh, nice... Nothing beats taking a dip in the hot spring"]},{"code":401,"indent":0,"parameters":["with a hottie."]},{"code":117,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["About that... I'm actually on my way out, so you two enjoy"]},{"code":401,"indent":0,"parameters":["yourselves!"]},{"code":117,"indent":0,"parameters":[3]},{"code":101,"indent":0,"parameters":["",0,0,2,"Middle-Aged Man"]},{"code":401,"indent":0,"parameters":["Wait, wait, what's the hurry?"]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":221,"indent":0,"parameters":[]},{"code":122,"indent":0,"parameters":[362,362,0,0,3]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":108,"indent":0,"parameters":["▼イベント"]},{"code":117,"indent":0,"parameters":[462]},{"code":108,"indent":0,"parameters":["▼セクハラでの選択肢の結果"]},{"code":111,"indent":0,"parameters":[0,370,0]},{"code":119,"indent":1,"parameters":["skip"]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":111,"indent":0,"parameters":[0,276,0]},{"code":117,"indent":1,"parameters":[463]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":117,"indent":1,"parameters":[464]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":117,"indent":0,"parameters":[215]},{"code":118,"indent":0,"parameters":["skip"]},{"code":122,"indent":0,"parameters":[362,362,0,0,4]},{"code":117,"indent":0,"parameters":[35]},{"code":117,"indent":0,"parameters":[180]},{"code":117,"indent":0,"parameters":[116]},{"code":108,"indent":0,"parameters":["▼服を戻す"]},{"code":111,"indent":0,"parameters":[1,97,0,100,1]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":121,"indent":1,"parameters":[81,81,1]},{"code":111,"indent":1,"parameters":[10,151,true]},{"code":128,"indent":2,"parameters":[151,1,0,5,false]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":108,"indent":0,"parameters":["▼分岐"]},{"code":111,"indent":0,"parameters":[0,370,0]},{"code":201,"indent":1,"parameters":[0,51,5,1,2,2]},{"code":230,"indent":1,"parameters":[20]},{"code":222,"indent":1,"parameters":[]},{"code":213,"indent":1,"parameters":[-1,7,true]},{"code":230,"indent":1,"parameters":[20]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":1,"parameters":[23,23,0,0,-80]},{"code":121,"indent":1,"parameters":[181,181,1]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":1,"parameters":[4]},{"code":122,"indent":1,"parameters":[21,21,0,0,4]},{"code":122,"indent":1,"parameters":[22,22,0,0,20]},{"code":117,"indent":1,"parameters":[1]},{"code":121,"indent":1,"parameters":[181,181,0]},{"code":101,"indent":1,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":1,"parameters":["......"]},{"code":108,"indent":1,"parameters":["▼Hステータス上昇値を表示"]},{"code":111,"indent":1,"parameters":[4,1,6,21]},{"code":122,"indent":2,"parameters":[583,583,1,0,3]},{"code":122,"indent":2,"parameters":[97,97,0,1,583]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":122,"indent":2,"parameters":[97,97,1,0,3]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":250,"indent":1,"parameters":[{"name":"sikouup","volume":90,"pitch":100,"pan":0}]},{"code":357,"indent":1,"parameters":["DTextPicture","dText","文字列ピクチャ準備",{"text":"Lewdness +3","fontSize":"20"}]},{"code":657,"indent":1,"parameters":["表示文字列 = Lewdness +3"]},{"code":657,"indent":1,"parameters":["フォントサイズ = 20"]},{"code":231,"indent":1,"parameters":[1,"exp_hresalt",0,0,0,0,100,100,255,0]},{"code":231,"indent":1,"parameters":[2,"",0,0,540,120,100,100,255,0]},{"code":101,"indent":1,"parameters":["",0,2,2,""]},{"code":401,"indent":1,"parameters":[""]},{"code":235,"indent":1,"parameters":[1]},{"code":235,"indent":1,"parameters":[2]},{"code":230,"indent":1,"parameters":[20]},{"code":117,"indent":1,"parameters":[5]},{"code":117,"indent":1,"parameters":[6]},{"code":121,"indent":1,"parameters":[475,475,0]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":201,"indent":1,"parameters":[0,55,17,7,6,2]},{"code":108,"indent":1,"parameters":["▼各種ステータス上昇値"]},{"code":122,"indent":1,"parameters":[467,467,0,2,60,100]},{"code":122,"indent":1,"parameters":[470,470,0,2,6,10]},{"code":108,"indent":1,"parameters":["▼各種ステータス上昇値を清算"]},{"code":111,"indent":1,"parameters":[4,1,6,21]},{"code":313,"indent":2,"parameters":[0,1,1,21]},{"code":122,"indent":2,"parameters":[583,583,1,0,5]},{"code":122,"indent":2,"parameters":[97,97,0,1,583]},{"code":0,"indent":2,"parameters":[]},{"code":411,"indent":1,"parameters":[]},{"code":122,"indent":2,"parameters":[97,97,1,0,5]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":122,"indent":1,"parameters":[183,183,1,0,2]},{"code":122,"indent":1,"parameters":[184,184,1,0,2]},{"code":122,"indent":1,"parameters":[194,194,1,1,470]},{"code":122,"indent":1,"parameters":[100,100,0,0,0]},{"code":122,"indent":1,"parameters":[98,98,1,1,467]},{"code":111,"indent":1,"parameters":[1,98,0,100,1]},{"code":122,"indent":2,"parameters":[98,98,0,0,100]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":108,"indent":1,"parameters":["▼誰とSEXしたか"]},{"code":122,"indent":1,"parameters":[472,472,1,0,1]},{"code":108,"indent":1,"parameters":["▼性交の経験"]},{"code":111,"indent":1,"parameters":[0,276,1]},{"code":121,"indent":2,"parameters":[276,276,0]},{"code":122,"indent":2,"parameters":[195,195,0,4,"\"Mining Guild Men\""]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":117,"indent":1,"parameters":[140]},{"code":230,"indent":1,"parameters":[20]},{"code":222,"indent":1,"parameters":[]},{"code":213,"indent":1,"parameters":[-1,7,true]},{"code":230,"indent":1,"parameters":[20]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":1,"parameters":[23,23,0,0,-80]},{"code":121,"indent":1,"parameters":[181,181,1]},{"code":108,"indent":1,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":1,"parameters":[4]},{"code":122,"indent":1,"parameters":[21,21,0,0,4]},{"code":122,"indent":1,"parameters":[22,22,0,0,20]},{"code":117,"indent":1,"parameters":[1]},{"code":121,"indent":1,"parameters":[181,181,0]},{"code":101,"indent":1,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":1,"parameters":["......"]},{"code":108,"indent":1,"parameters":["▼Hステータス上昇値を表示"]},{"code":250,"indent":1,"parameters":[{"name":"sikouup","volume":90,"pitch":100,"pan":0}]},{"code":357,"indent":1,"parameters":["DTextPicture","dText","文字列ピクチャ準備",{"text":"Lewdness +5\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie +2\nCreampie Volume +\\v[470]\n\nSex with Mining Guild Men +1","fontSize":"20"}]},{"code":657,"indent":1,"parameters":["表示文字列 = Lewdness +5\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie +2\nCreampie Volume +\\v[470]\n\nSex with Mining Guild Men +1"]},{"code":657,"indent":1,"parameters":["フォントサイズ = 20"]},{"code":231,"indent":1,"parameters":[1,"exp_hresalt",0,0,0,0,100,100,255,0]},{"code":231,"indent":1,"parameters":[2,"",0,0,540,120,100,100,255,0]},{"code":101,"indent":1,"parameters":["",0,2,2,""]},{"code":401,"indent":1,"parameters":[""]},{"code":235,"indent":1,"parameters":[1]},{"code":235,"indent":1,"parameters":[2]},{"code":230,"indent":1,"parameters":[20]},{"code":117,"indent":1,"parameters":[5]},{"code":117,"indent":1,"parameters":[6]},{"code":121,"indent":1,"parameters":[475,475,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":18,"y":12},{"id":5,"name":"EV005","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"npc_sprits1","direction":4,"pattern":1,"characterIndex":7},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":21,"y":7},{"id":6,"name":"EV006","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"npc_sprits1","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":22,"y":6},{"id":7,"name":"EV007","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":230,"indent":0,"parameters":[20]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":0,"parameters":[23,23,0,0,-80]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":0,"parameters":[4]},{"code":122,"indent":0,"parameters":[21,21,0,0,4]},{"code":122,"indent":0,"parameters":[22,22,0,0,20]},{"code":117,"indent":0,"parameters":[1]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["There won't be a next time..."]},{"code":108,"indent":0,"parameters":["▼Hステータス上昇値を表示"]},{"code":250,"indent":0,"parameters":[{"name":"sikouup","volume":90,"pitch":100,"pan":0}]},{"code":357,"indent":0,"parameters":["DTextPicture","dText","文字列ピクチャ準備",{"text":"Lewdness +1\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie =2\nSemen Cummed On +\\v[468]\nCreampie Volume +\\v[470]","fontSize":"20"}]},{"code":657,"indent":0,"parameters":["表示文字列 = Lewdness +1\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie =2\nSemen Cummed On +\\v[468]\nCreampie Volume +\\v[470]"]},{"code":657,"indent":0,"parameters":["フォントサイズ = 20"]},{"code":231,"indent":0,"parameters":[1,"exp_hresalt",0,0,0,0,100,100,255,0]},{"code":231,"indent":0,"parameters":[2,"",0,0,540,120,100,100,255,0]},{"code":101,"indent":0,"parameters":["",0,2,2,""]},{"code":401,"indent":0,"parameters":[""]},{"code":235,"indent":0,"parameters":[1]},{"code":235,"indent":0,"parameters":[2]},{"code":230,"indent":0,"parameters":[20]},{"code":117,"indent":0,"parameters":[5]},{"code":117,"indent":0,"parameters":[6]},{"code":122,"indent":0,"parameters":[402,402,0,0,6]},{"code":357,"indent":0,"parameters":["SoR_GabWindow_MZ_Right","PushGab","呼び出し[おしゃべりポップアップ]",{"arg0":"1","arg1":"Ugh... My groin stings..."}]},{"code":657,"indent":0,"parameters":["顔グラフィックを表示するアクターID = 1"]},{"code":657,"indent":0,"parameters":["メッセージ文字列 = Ugh... My groin stings..."]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":25,"y":14},{"id":8,"name":"EV008","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"npc_sprits1","direction":2,"pattern":1,"characterIndex":7},"list":[{"code":357,"indent":0,"parameters":["MessageWindowPopup","POPUP_VALID","フキダシ有効化",{"id":"0","name":"","windowPosition":"auto"}]},{"code":657,"indent":0,"parameters":["キャラクターID = 0"]},{"code":657,"indent":0,"parameters":["イベント名称 = "]},{"code":657,"indent":0,"parameters":["ウィンドウ位置 = auto"]},{"code":101,"indent":0,"parameters":["",0,0,2,""]},{"code":401,"indent":0,"parameters":["Just us two next time, I'll"]},{"code":401,"indent":0,"parameters":["give you the love you want."]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":0,"parameters":[23,23,0,0,-80]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":0,"parameters":[4]},{"code":122,"indent":0,"parameters":[21,21,0,0,4]},{"code":122,"indent":0,"parameters":[22,22,0,0,34]},{"code":117,"indent":0,"parameters":[1]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["I don't want to go through that ever again!"]},{"code":117,"indent":0,"parameters":[5]},{"code":117,"indent":0,"parameters":[6]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":19,"y":4},{"id":9,"name":"EV009","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":362,"variableValid":true,"variableValue":4},"directionFix":false,"image":{"tileId":0,"characterName":"npc_sprits1","direction":4,"pattern":1,"characterIndex":1},"list":[{"code":357,"indent":0,"parameters":["MessageWindowPopup","POPUP_VALID","フキダシ有効化",{"id":"0","name":"","windowPosition":"auto"}]},{"code":657,"indent":0,"parameters":["キャラクターID = 0"]},{"code":657,"indent":0,"parameters":["イベント名称 = "]},{"code":657,"indent":0,"parameters":["ウィンドウ位置 = auto"]},{"code":101,"indent":0,"parameters":["",0,0,2,""]},{"code":401,"indent":0,"parameters":["They were so soft, hehehe..."]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":122,"indent":0,"parameters":[23,23,0,0,-80]},{"code":121,"indent":0,"parameters":[181,181,1]},{"code":108,"indent":0,"parameters":["----------------------------立ち絵準備"]},{"code":117,"indent":0,"parameters":[4]},{"code":122,"indent":0,"parameters":[21,21,0,0,4]},{"code":122,"indent":0,"parameters":[22,22,0,0,20]},{"code":117,"indent":0,"parameters":[1]},{"code":121,"indent":0,"parameters":[181,181,0]},{"code":101,"indent":0,"parameters":["",0,0,2,"Erina"]},{"code":401,"indent":0,"parameters":["......"]},{"code":117,"indent":0,"parameters":[5]},{"code":117,"indent":0,"parameters":[6]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true}],"x":20,"y":5},{"id":10,"name":"EV010","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":117,"indent":0,"parameters":[462]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}],"x":5,"y":15},null]}
+{
+  "autoplayBgm": true,
+  "autoplayBgs": true,
+  "battleback1Name": "",
+  "battleback2Name": "",
+  "bgm": {
+    "name": "",
+    "pan": 0,
+    "pitch": 100,
+    "volume": 90
+  },
+  "bgs": {
+    "name": "Drips",
+    "pan": 0,
+    "pitch": 50,
+    "volume": 70
+  },
+  "disableDashing": false,
+  "displayName": "Hidden Hot Spring",
+  "encounterList": [],
+  "encounterStep": 30,
+  "height": 16,
+  "note": "<fgName:Smog70><fgLoopX:1><fgLoopY:1><fgSx:1><fgSy:1>",
+  "parallaxLoopX": false,
+  "parallaxLoopY": false,
+  "parallaxName": "Mountains2s",
+  "parallaxShow": true,
+  "parallaxSx": 0,
+  "parallaxSy": 0,
+  "scrollType": 0,
+  "specifyBattleback": false,
+  "tilesetId": 32,
+  "width": 27,
+  "data": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    608,
+    609,
+    528,
+    529,
+    530,
+    531,
+    532,
+    533,
+    534,
+    535,
+    656,
+    657,
+    658,
+    659,
+    660,
+    661,
+    662,
+    663,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    616,
+    617,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    664,
+    665,
+    666,
+    667,
+    668,
+    669,
+    670,
+    671,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    624,
+    625,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    672,
+    673,
+    674,
+    675,
+    676,
+    677,
+    678,
+    679,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    632,
+    633,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    680,
+    681,
+    682,
+    683,
+    684,
+    685,
+    686,
+    687,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    613,
+    614,
+    560,
+    561,
+    562,
+    563,
+    564,
+    565,
+    566,
+    567,
+    688,
+    689,
+    690,
+    691,
+    692,
+    693,
+    694,
+    695,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    621,
+    622,
+    568,
+    569,
+    570,
+    571,
+    572,
+    573,
+    574,
+    575,
+    696,
+    697,
+    698,
+    699,
+    700,
+    701,
+    702,
+    703,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    629,
+    630,
+    576,
+    577,
+    578,
+    579,
+    580,
+    581,
+    582,
+    583,
+    704,
+    705,
+    706,
+    707,
+    708,
+    709,
+    710,
+    711,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    637,
+    638,
+    584,
+    585,
+    586,
+    587,
+    588,
+    589,
+    590,
+    591,
+    712,
+    713,
+    714,
+    715,
+    716,
+    717,
+    718,
+    719,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    753,
+    754,
+    592,
+    593,
+    594,
+    595,
+    596,
+    597,
+    598,
+    599,
+    720,
+    721,
+    722,
+    723,
+    724,
+    725,
+    726,
+    727,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    761,
+    762,
+    600,
+    601,
+    602,
+    603,
+    604,
+    605,
+    606,
+    607,
+    728,
+    729,
+    730,
+    731,
+    732,
+    733,
+    734,
+    735,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4242,
+    4244,
+    2238,
+    0,
+    0,
+    0,
+    0,
+    4242,
+    4228,
+    4244,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4248,
+    4218,
+    4244,
+    0,
+    0,
+    0,
+    0,
+    4248,
+    4236,
+    4218,
+    4244,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4248,
+    4246,
+    2238,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4248,
+    4238,
+    4253,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4242,
+    4228,
+    4244,
+    0,
+    2238,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4250,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4248,
+    4216,
+    4210,
+    4244,
+    0,
+    0,
+    0,
+    0,
+    4242,
+    4229,
+    4247,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    4248,
+    4236,
+    4246,
+    0,
+    0,
+    0,
+    0,
+    4248,
+    4246,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3522,
+    3524,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3522,
+    3508,
+    3489,
+    3490,
+    3524,
+    0,
+    0,
+    3522,
+    3508,
+    3524,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3504,
+    3488,
+    3488,
+    3488,
+    3512,
+    0,
+    3522,
+    3489,
+    3488,
+    3490,
+    3508,
+    3524,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3504,
+    3488,
+    3488,
+    3492,
+    3526,
+    0,
+    3504,
+    3488,
+    3488,
+    3488,
+    3488,
+    3512,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3504,
+    3488,
+    3488,
+    3512,
+    0,
+    0,
+    3504,
+    3488,
+    3488,
+    3488,
+    3492,
+    3526,
+    0,
+    0,
+    0,
+    0,
+    3522,
+    3524,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3528,
+    3516,
+    3516,
+    3526,
+    0,
+    0,
+    3528,
+    3496,
+    3488,
+    3492,
+    3526,
+    0,
+    0,
+    0,
+    3522,
+    3508,
+    3493,
+    3526,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    3528,
+    3516,
+    3526,
+    0,
+    0,
+    0,
+    0,
+    3528,
+    3516,
+    3526,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    865,
+    866,
+    867,
+    768,
+    769,
+    770,
+    771,
+    772,
+    773,
+    774,
+    775,
+    896,
+    897,
+    898,
+    899,
+    900,
+    901,
+    902,
+    903,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    872,
+    873,
+    874,
+    875,
+    776,
+    777,
+    778,
+    779,
+    780,
+    781,
+    782,
+    783,
+    904,
+    905,
+    906,
+    907,
+    908,
+    909,
+    910,
+    911,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    880,
+    881,
+    882,
+    0,
+    0,
+    0,
+    0,
+    787,
+    788,
+    0,
+    0,
+    791,
+    912,
+    913,
+    0,
+    0,
+    0,
+    0,
+    0,
+    919,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    888,
+    889,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    869,
+    870,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    877,
+    878,
+    0,
+    839,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    885,
+    886,
+    887,
+    1008,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    951,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    893,
+    894,
+    895,
+    1016,
+    839,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    959,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    994,
+    995,
+    996,
+    997,
+    832,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    839,
+    960,
+    961,
+    962,
+    963,
+    0,
+    0,
+    966,
+    967,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    1002,
+    1003,
+    1004,
+    1005,
+    840,
+    841,
+    0,
+    0,
+    0,
+    845,
+    846,
+    0,
+    968,
+    969,
+    970,
+    971,
+    0,
+    973,
+    974,
+    975,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    1010,
+    1011,
+    1012,
+    1013,
+    848,
+    849,
+    850,
+    851,
+    852,
+    853,
+    854,
+    855,
+    976,
+    977,
+    978,
+    979,
+    980,
+    981,
+    982,
+    983,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    1018,
+    1019,
+    1020,
+    1021,
+    856,
+    857,
+    858,
+    859,
+    860,
+    861,
+    862,
+    863,
+    984,
+    985,
+    986,
+    987,
+    988,
+    989,
+    990,
+    991,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    864,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "events": [
+    null,
+    {
+      "id": 1,
+      "name": "Move (Quarry II, Floor 2)",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "yajirusi",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                1,
+                304,
+                0,
+                3,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                20
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼メイン進行度64"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                1,
+                201,
+                0,
+                64,
+                1
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [
+                [
+                  "Go to World Map?",
+                  "Floor 2"
+                ],
+                -2,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 2,
+              "parameters": [
+                0,
+                "Go to World Map?"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 3,
+              "parameters": [
+                0,
+                51,
+                5,
+                1,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 2,
+              "parameters": [
+                1,
+                "Floor 2"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 3,
+              "parameters": [
+                0,
+                54,
+                1,
+                9,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "KBF_Field_Land_09",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 2,
+              "parameters": [
+                6,
+                null
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 3,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 2,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 3,
+              "parameters": [
+                {
+                  "code": 2,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 2,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 2,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                54,
+                1,
+                9,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Field_Land_09",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 23,
+      "y": 6
+    },
+    {
+      "id": 2,
+      "name": "Move (Quarry II, Floor 2)",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "yajirusi",
+            "direction": 6,
+            "pattern": 1,
+            "characterIndex": 6
+          },
+          "list": [
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                1,
+                304,
+                0,
+                3,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                20
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼メイン進行度64"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                1,
+                201,
+                0,
+                64,
+                1
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 2,
+              "parameters": [
+                [
+                  "Go to World Map?",
+                  "Floor 2"
+                ],
+                -2,
+                0,
+                1,
+                1
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 2,
+              "parameters": [
+                0,
+                "Go to World Map?"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 3,
+              "parameters": [
+                0,
+                51,
+                5,
+                1,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 2,
+              "parameters": [
+                1,
+                "Floor 2"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 3,
+              "parameters": [
+                0,
+                54,
+                1,
+                9,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 3,
+              "parameters": [
+                {
+                  "name": "KBF_Field_Land_09",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 403,
+              "indent": 2,
+              "parameters": [
+                6,
+                null
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 3,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 2,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 3,
+              "parameters": [
+                {
+                  "code": 2,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 2,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 2,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                54,
+                1,
+                9,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 241,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "KBF_Field_Land_09",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 1,
+          "walkAnime": false
+        }
+      ],
+      "x": 23,
+      "y": 7
+    },
+    {
+      "id": 3,
+      "name": "EV003",
+      "note": "<NESフキダシ対象:4><NESスイッチ:475><BalloonY:-20>",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 201,
+            "variableValid": true,
+            "variableValue": 78
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                18
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Enter the hot spring?"
+              ]
+            },
+            {
+              "code": 102,
+              "indent": 0,
+              "parameters": [
+                [
+                  "Yes",
+                  "No"
+                ],
+                1,
+                0,
+                2,
+                0
+              ]
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                0,
+                "Yes"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                475,
+                475,
+                1
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                0,
+                120,
+                0
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 2,
+              "parameters": [
+                81,
+                81,
+                0
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 2,
+              "parameters": [
+                10,
+                151,
+                true
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 357,
+              "indent": 3,
+              "parameters": [
+                "SoR_PopupItemIndicator_MZ_Right",
+                "DisableItemPopIndicator",
+                "取得ポップアップ描画OFF[ポップアップ式アイテム取得インジケータ]",
+                {}
+              ]
+            },
+            {
+              "code": 128,
+              "indent": 3,
+              "parameters": [
+                151,
+                0,
+                0,
+                1,
+                false
+              ]
+            },
+            {
+              "code": 357,
+              "indent": 3,
+              "parameters": [
+                "SoR_PopupItemIndicator_MZ_Right",
+                "EnableItemPopIndicator",
+                "取得ポップアップ描画ON[ポップアップ式アイテム取得インジケータ]",
+                {}
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 121,
+              "indent": 2,
+              "parameters": [
+                81,
+                81,
+                0
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 2,
+              "parameters": [
+                10,
+                151,
+                true
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 357,
+              "indent": 3,
+              "parameters": [
+                "SoR_PopupItemIndicator_MZ_Right",
+                "DisableItemPopIndicator",
+                "取得ポップアップ描画OFF[ポップアップ式アイテム取得インジケータ]",
+                {}
+              ]
+            },
+            {
+              "code": 128,
+              "indent": 3,
+              "parameters": [
+                151,
+                0,
+                0,
+                1,
+                false
+              ]
+            },
+            {
+              "code": 357,
+              "indent": 3,
+              "parameters": [
+                "SoR_PopupItemIndicator_MZ_Right",
+                "EnableItemPopIndicator",
+                "取得ポップアップ描画ON[ポップアップ式アイテム取得インジケータ]",
+                {}
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 221,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 242,
+              "indent": 1,
+              "parameters": [
+                7
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                55,
+                13,
+                6,
+                2,
+                2
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                34
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                31
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                19
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼イベント"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                209
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                1,
+                362,
+                0,
+                1,
+                0
+              ]
+            },
+            {
+              "code": 119,
+              "indent": 2,
+              "parameters": [
+                "end"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                35
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                116
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                55,
+                17,
+                7,
+                6,
+                2
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼服を戻す"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                1,
+                97,
+                0,
+                100,
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 111,
+              "indent": 2,
+              "parameters": [
+                0,
+                120,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 121,
+              "indent": 3,
+              "parameters": [
+                81,
+                81,
+                1
+              ]
+            },
+            {
+              "code": 128,
+              "indent": 3,
+              "parameters": [
+                151,
+                1,
+                0,
+                1,
+                false
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 3,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 213,
+              "indent": 1,
+              "parameters": [
+                -1,
+                3,
+                true
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "Phew... That was refreshing. I'll come again."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                475,
+                475,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 402,
+              "indent": 0,
+              "parameters": [
+                1,
+                "No"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                19
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 404,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 118,
+              "indent": 0,
+              "parameters": [
+                "end"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 4
+          },
+          "directionFix": true,
+          "image": {
+            "tileId": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "characterIndex": 4
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                13
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I'm not in the mood to go again, especially considering what"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "happened earlier."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼イベント条件"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "type_load",
+                  "volume": 90,
+                  "pitch": 150,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                1,
+                1,
+                "Event Conditions"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Available in the full game."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": false
+        }
+      ],
+      "x": 17,
+      "y": 6
+    },
+    {
+      "id": 4,
+      "name": "EV004",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 1
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                40
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "Move1",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                362,
+                362,
+                0,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [
+                    {
+                      "code": 2,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 2,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                6,
+                {
+                  "list": [
+                    {
+                      "code": 2,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 2,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                30
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 0,
+              "parameters": [
+                5,
+                11,
+                true
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                6
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                21
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Middle-Aged Man"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Ohh! This is the hot spring everybody's been talking about, huh?"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Way better than I imagined."
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                5,
+                {
+                  "list": [
+                    {
+                      "code": 29,
+                      "parameters": [
+                        2
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 2,
+                      "indent": null
+                    },
+                    {
+                      "code": 2,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 29,
+                  "parameters": [
+                    2
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 2,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 2,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                6,
+                {
+                  "list": [
+                    {
+                      "code": 29,
+                      "parameters": [
+                        2
+                      ],
+                      "indent": null
+                    },
+                    {
+                      "code": 2,
+                      "indent": null
+                    },
+                    {
+                      "code": 2,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": false
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 29,
+                  "parameters": [
+                    2
+                  ],
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 2,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 2,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 0,
+              "parameters": [
+                -1,
+                1,
+                false
+              ]
+            },
+            {
+              "code": 205,
+              "indent": 0,
+              "parameters": [
+                -1,
+                {
+                  "list": [
+                    {
+                      "code": 18,
+                      "indent": null
+                    },
+                    {
+                      "code": 0
+                    }
+                  ],
+                  "repeat": false,
+                  "skippable": false,
+                  "wait": true
+                }
+              ]
+            },
+            {
+              "code": 505,
+              "indent": 0,
+              "parameters": [
+                {
+                  "code": 18,
+                  "indent": null
+                }
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Geh... Someone's here."
+              ]
+            },
+            {
+              "code": 213,
+              "indent": 0,
+              "parameters": [
+                5,
+                2,
+                true
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Middle-Aged Man"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Hmm? Someone's already here. No idea who you are, but don't"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "be a stranger. You could've given us the heads u—"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Middle-Aged Man"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Now this is a happy surprise. Aren't you..."
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                33
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Hello there..."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Middle-Aged Man"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Heh-heh, nice... Nothing beats taking a dip in the hot spring"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "with a hottie."
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "About that... I'm actually on my way out, so you two enjoy"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "yourselves!"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                3
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Middle-Aged Man"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Wait, wait, what's the hurry?"
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 221,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                362,
+                362,
+                0,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼イベント"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                462
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼セクハラでの選択肢の結果"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                0,
+                370,
+                0
+              ]
+            },
+            {
+              "code": 119,
+              "indent": 1,
+              "parameters": [
+                "skip"
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                0,
+                276,
+                0
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                463
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                464
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                215
+              ]
+            },
+            {
+              "code": 118,
+              "indent": 0,
+              "parameters": [
+                "skip"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                362,
+                362,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                35
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                180
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                116
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼服を戻す"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                1,
+                97,
+                0,
+                100,
+                1
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                81,
+                81,
+                1
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                10,
+                151,
+                true
+              ]
+            },
+            {
+              "code": 128,
+              "indent": 2,
+              "parameters": [
+                151,
+                1,
+                0,
+                5,
+                false
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼分岐"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 0,
+              "parameters": [
+                0,
+                370,
+                0
+              ]
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                51,
+                5,
+                1,
+                2,
+                2
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 213,
+              "indent": 1,
+              "parameters": [
+                -1,
+                7,
+                true
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "......"
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼Hステータス上昇値を表示"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                4,
+                1,
+                6,
+                21
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [
+                583,
+                583,
+                1,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [
+                97,
+                97,
+                0,
+                1,
+                583
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [
+                97,
+                97,
+                1,
+                0,
+                3
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "sikouup",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 357,
+              "indent": 1,
+              "parameters": [
+                "DTextPicture",
+                "dText",
+                "文字列ピクチャ準備",
+                {
+                  "text": "Lewdness +3",
+                  "fontSize": "20"
+                }
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 1,
+              "parameters": [
+                "表示文字列 = Lewdness +3"
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 1,
+              "parameters": [
+                "フォントサイズ = 20"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [
+                1,
+                "exp_hresalt",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [
+                2,
+                "",
+                0,
+                0,
+                540,
+                120,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                2,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 1,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 1,
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                475,
+                475,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 201,
+              "indent": 1,
+              "parameters": [
+                0,
+                55,
+                17,
+                7,
+                6,
+                2
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼各種ステータス上昇値"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                467,
+                467,
+                0,
+                2,
+                60,
+                100
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                470,
+                470,
+                0,
+                2,
+                6,
+                10
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼各種ステータス上昇値を清算"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                4,
+                1,
+                6,
+                21
+              ]
+            },
+            {
+              "code": 313,
+              "indent": 2,
+              "parameters": [
+                0,
+                1,
+                1,
+                21
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [
+                583,
+                583,
+                1,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [
+                97,
+                97,
+                0,
+                1,
+                583
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 411,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [
+                97,
+                97,
+                1,
+                0,
+                5
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                183,
+                183,
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                184,
+                184,
+                1,
+                0,
+                2
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                194,
+                194,
+                1,
+                1,
+                470
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                100,
+                100,
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                98,
+                98,
+                1,
+                1,
+                467
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                1,
+                98,
+                0,
+                100,
+                1
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [
+                98,
+                98,
+                0,
+                0,
+                100
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼誰とSEXしたか"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                472,
+                472,
+                1,
+                0,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼性交の経験"
+              ]
+            },
+            {
+              "code": 111,
+              "indent": 1,
+              "parameters": [
+                0,
+                276,
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 2,
+              "parameters": [
+                276,
+                276,
+                0
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 2,
+              "parameters": [
+                195,
+                195,
+                0,
+                4,
+                "\"Mining Guild Men\""
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 2,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                140
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 222,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 213,
+              "indent": 1,
+              "parameters": [
+                -1,
+                7,
+                true
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 1,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                "......"
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 1,
+              "parameters": [
+                "▼Hステータス上昇値を表示"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 1,
+              "parameters": [
+                {
+                  "name": "sikouup",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 357,
+              "indent": 1,
+              "parameters": [
+                "DTextPicture",
+                "dText",
+                "文字列ピクチャ準備",
+                {
+                  "text": "Lewdness +5\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie +2\nCreampie Volume +\\v[470]\n\nSex with Mining Guild Men +1",
+                  "fontSize": "20"
+                }
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 1,
+              "parameters": [
+                "表示文字列 = Lewdness +5\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie +2\nCreampie Volume +\\v[470]\n\nSex with Mining Guild Men +1"
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 1,
+              "parameters": [
+                "フォントサイズ = 20"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [
+                1,
+                "exp_hresalt",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 1,
+              "parameters": [
+                2,
+                "",
+                0,
+                0,
+                540,
+                120,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 1,
+              "parameters": [
+                "",
+                0,
+                2,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 1,
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 1,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 1,
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 1,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 1,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 1,
+              "parameters": [
+                475,
+                475,
+                0
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 1,
+              "parameters": []
+            },
+            {
+              "code": 412,
+              "indent": 0,
+              "parameters": []
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 3,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 4
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 18,
+      "y": 12
+    },
+    {
+      "id": 5,
+      "name": "EV005",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "npc_sprits1",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 21,
+      "y": 7
+    },
+    {
+      "id": 6,
+      "name": "EV006",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 2
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "npc_sprits1",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 3
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 22,
+      "y": 6
+    },
+    {
+      "id": 7,
+      "name": "EV007",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "There won't be a next time..."
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "▼Hステータス上昇値を表示"
+              ]
+            },
+            {
+              "code": 250,
+              "indent": 0,
+              "parameters": [
+                {
+                  "name": "sikouup",
+                  "volume": 90,
+                  "pitch": 100,
+                  "pan": 0
+                }
+              ]
+            },
+            {
+              "code": 357,
+              "indent": 0,
+              "parameters": [
+                "DTextPicture",
+                "dText",
+                "文字列ピクチャ準備",
+                {
+                  "text": "Lewdness +1\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie =2\nSemen Cummed On +\\v[468]\nCreampie Volume +\\v[470]",
+                  "fontSize": "20"
+                }
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "表示文字列 = Lewdness +1\n\nVagina Gauge +\\v[467]\n\nSex +2\nCreampie =2\nSemen Cummed On +\\v[468]\nCreampie Volume +\\v[470]"
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "フォントサイズ = 20"
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                1,
+                "exp_hresalt",
+                0,
+                0,
+                0,
+                0,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 231,
+              "indent": 0,
+              "parameters": [
+                2,
+                "",
+                0,
+                0,
+                540,
+                120,
+                100,
+                100,
+                255,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                2,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 235,
+              "indent": 0,
+              "parameters": [
+                2
+              ]
+            },
+            {
+              "code": 230,
+              "indent": 0,
+              "parameters": [
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                402,
+                402,
+                0,
+                0,
+                6
+              ]
+            },
+            {
+              "code": 357,
+              "indent": 0,
+              "parameters": [
+                "SoR_GabWindow_MZ_Right",
+                "PushGab",
+                "呼び出し[おしゃべりポップアップ]",
+                {
+                  "arg0": "1",
+                  "arg1": "Ugh... My groin stings..."
+                }
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "顔グラフィックを表示するアクターID = 1"
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "メッセージ文字列 = Ugh... My groin stings..."
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        },
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 25,
+      "y": 14
+    },
+    {
+      "id": 8,
+      "name": "EV008",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 4
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "npc_sprits1",
+            "direction": 2,
+            "pattern": 1,
+            "characterIndex": 7
+          },
+          "list": [
+            {
+              "code": 357,
+              "indent": 0,
+              "parameters": [
+                "MessageWindowPopup",
+                "POPUP_VALID",
+                "フキダシ有効化",
+                {
+                  "id": "0",
+                  "name": "",
+                  "windowPosition": "auto"
+                }
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "キャラクターID = 0"
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "イベント名称 = "
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "ウィンドウ位置 = auto"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "Just us two next time, I'll"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "give you the love you want."
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                34
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "I don't want to go through that ever again!"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 19,
+      "y": 4
+    },
+    {
+      "id": 9,
+      "name": "EV009",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 362,
+            "variableValid": true,
+            "variableValue": 4
+          },
+          "directionFix": false,
+          "image": {
+            "tileId": 0,
+            "characterName": "npc_sprits1",
+            "direction": 4,
+            "pattern": 1,
+            "characterIndex": 1
+          },
+          "list": [
+            {
+              "code": 357,
+              "indent": 0,
+              "parameters": [
+                "MessageWindowPopup",
+                "POPUP_VALID",
+                "フキダシ有効化",
+                {
+                  "id": "0",
+                  "name": "",
+                  "windowPosition": "auto"
+                }
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "キャラクターID = 0"
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "イベント名称 = "
+              ]
+            },
+            {
+              "code": 657,
+              "indent": 0,
+              "parameters": [
+                "ウィンドウ位置 = auto"
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                ""
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "They were so soft, hehehe..."
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                23,
+                23,
+                0,
+                0,
+                -80
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                1
+              ]
+            },
+            {
+              "code": 108,
+              "indent": 0,
+              "parameters": [
+                "----------------------------立ち絵準備"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                21,
+                21,
+                0,
+                0,
+                4
+              ]
+            },
+            {
+              "code": 122,
+              "indent": 0,
+              "parameters": [
+                22,
+                22,
+                0,
+                0,
+                20
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                1
+              ]
+            },
+            {
+              "code": 121,
+              "indent": 0,
+              "parameters": [
+                181,
+                181,
+                0
+              ]
+            },
+            {
+              "code": 101,
+              "indent": 0,
+              "parameters": [
+                "",
+                0,
+                0,
+                2,
+                "Erina"
+              ]
+            },
+            {
+              "code": 401,
+              "indent": 0,
+              "parameters": [
+                "......"
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                5
+              ]
+            },
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                6
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 1,
+          "stepAnime": true,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 20,
+      "y": 5
+    },
+    {
+      "id": 10,
+      "name": "EV010",
+      "note": "",
+      "pages": [
+        {
+          "conditions": {
+            "actorId": 1,
+            "actorValid": false,
+            "itemId": 1,
+            "itemValid": false,
+            "selfSwitchCh": "A",
+            "selfSwitchValid": false,
+            "switch1Id": 1,
+            "switch1Valid": false,
+            "switch2Id": 1,
+            "switch2Valid": false,
+            "variableId": 1,
+            "variableValid": false,
+            "variableValue": 0
+          },
+          "directionFix": false,
+          "image": {
+            "characterIndex": 0,
+            "characterName": "",
+            "direction": 2,
+            "pattern": 0,
+            "tileId": 0
+          },
+          "list": [
+            {
+              "code": 117,
+              "indent": 0,
+              "parameters": [
+                462
+              ]
+            },
+            {
+              "code": 0,
+              "indent": 0,
+              "parameters": []
+            }
+          ],
+          "moveFrequency": 3,
+          "moveRoute": {
+            "list": [
+              {
+                "code": 0,
+                "parameters": []
+              }
+            ],
+            "repeat": true,
+            "skippable": false,
+            "wait": false
+          },
+          "moveSpeed": 3,
+          "moveType": 0,
+          "priorityType": 0,
+          "stepAnime": false,
+          "through": false,
+          "trigger": 0,
+          "walkAnime": true
+        }
+      ],
+      "x": 5,
+      "y": 15
+    },
+    null
+  ]
+}
